@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My Name is William (Billy) Winslow, and I am an <strike>IT Support Technician</strike>, a <strike>Web Developer</strike>, a <strike>Customer Service Advisor</strike> all of these.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[info@easyas12pc.co.uk](mailto:info@easyas12pc)

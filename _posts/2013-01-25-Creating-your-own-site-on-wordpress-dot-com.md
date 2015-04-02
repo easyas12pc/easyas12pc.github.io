@@ -48,7 +48,7 @@ I'm going to need some images for the Social links so lets upload them now. We n
 <p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media-uploading.jpg" target="_blank"><img class="aligncenter  wp-image-827" src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media-uploading.jpg" alt="Dashboard New media Uploading" /></a></p>
 As you can see I have chosen 5 files to be used as my icons for the Social Media Links widget. Once uploaded click on Edit to view the attachment details page.
 <p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-media-edit-info.jpg" target="_blank"><img class="aligncenter  wp-image-828" src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-media-edit-info.jpg" alt="Dashboard Media edit info" /></a></p>
-On this page you can see various details of the media item. In this case it is the icon for Facebook. Enter any details you want and take not of the File URL as shown on the right, we're going to need that later. Once your finished entering details click the Update button to save your changes.
+On this page you can see various details of the media item. In this case it is the icon for Facebook. Enter any details you want and take note of the File URL as shown on the right, we're going to need that later. Once your finished entering details click the Update button to save your changes.
 
 Next we're going to set up the Social links widget. For this we are going to use a text widget which allows us to enter html etc. Note WordPress.com does not allow various objects to be embedded including flash objects. For more info see this page from the support site. <a title="http://en.support.wordpress.com/code/" href="http://en.support.wordpress.com/code/" target="_blank">http://en.support.wordpress.com/code/</a>
 
@@ -56,7 +56,7 @@ Drag a text widget to the Sidebar widget area and drop it under the search widge
 
 <code> &lt;a href"destination address"&gt;&lt;img src="image address" alt="text to show when moused over" /&gt;&lt;/a&gt;</code>
 
-First we need get the address for the image. This was the File URL that is said to take not of earlier. Lets enter that and see how that looks linking to the Easy as 1 2 PC Facebook Page.
+First we need get the address for the image. This was the File URL that I said to take note of earlier. Lets enter that and see how that looks linking to the Easy as 1 2 PC Facebook Page.
 
 <code>&lt;a href"http://www.facebook.com/easyas12pc" target="_blank"&gt;&lt;img src="http://easyguideto.files.wordpress.com/2013/01/facebook40.png" alt="Easy as 1 2 PC Facebook Page"&gt;</code>
 
@@ -120,7 +120,7 @@ Thank you for reading this guide which turned out longer than I expected but hop
 
 If you have any questions feel free to ask below or on the Facebook or Google+ pages.
 
-Please spread the word, share on Facebook, Twitter etc.  Sharing buttons are just below. Thank you.
+Please spread the word, share on Facebook, Twitter etc.
 
 Author: William Winslow
 Find me on <a href="http://plus.google.com/u/0/101182395189202128527" rel="author">Google+</a>

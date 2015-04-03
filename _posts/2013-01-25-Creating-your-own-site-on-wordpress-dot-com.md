@@ -56,10 +56,10 @@ First we have to head on over to <a title="WordPress.com" href="http://wordpress
 
 <p></p>
 <p></p>
-<p>Lets go back to **My blogs** and click on **Blog Admin**.</p>
+<p>Lets go back to <strong>My blogs</strong> and click on <strong>Blog Admin</strong>.</p>
 <p style="text-align: center;"></p>
 ![Wordpress Site Dashboard]({{ site.url }}/images/WP-Guide/guide-to-wp-site-dashboard.jpg)
-<p style="text-align: center;">Site Dashboard</p>
+<p style="text-align: center; font-size: 14px;">Site Dashboard</p>
 
 <p></p>
 

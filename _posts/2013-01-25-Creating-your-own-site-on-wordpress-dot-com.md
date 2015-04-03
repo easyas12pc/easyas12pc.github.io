@@ -160,4 +160,4 @@ Please spread the word, share on Facebook, Twitter etc.
 Author: William Winslow
 Find me on <a href="http://plus.google.com/u/0/101182395189202128527" rel="author">Google+</a>
 
-Find Easy as 1 2 PC on <a href="https://plus.google.com/116907261384504584106" rel="publisher">Google+</a> and <a href="http://www.facebook.com/easyas12pc">Facebook</a>
+Find Easy as 1 2 PC on <a href="http://www.facebook.com/easyas12pc">Facebook</a>

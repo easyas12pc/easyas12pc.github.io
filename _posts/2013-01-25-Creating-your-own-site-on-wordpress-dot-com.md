@@ -88,16 +88,15 @@ First we have to head on over to <a title="WordPress.com" href="http://wordpress
 <p></p>
 <p></p>
 <p>Lets go back to <strong>My blogs</strong> and click on <strong>Blog Admin</strong>.</p>
-<p style="text-align: center;"></p>
-![Wordpress Site Dashboard]({{ site.url }}/images/WP-Guide/guide-to-wp-site-dashboard.jpg)
-<p style="text-align: center; font-size: 14px;">Site Dashboard</p>
-
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-site-dashboard.jpg" target="_blank"><img title="Site Dashboard" src="/images/WP-Guide/guide-to-wp-site-dashboard.jpg" alt="Site Dashboard" /></a></p>
+<p>Site Dashboard</p>
 <p></p>
 
 As you can see there are lots of items down the menu on the left, each of which may have various options underneath that. Lets start first of all by deciding whether this is a blog or a website. By default WordPress.com expects the front page of your site to be a blog roll page. This page shows either the full text of each post or excerpts of each post. You can if you wish change this to allow your site to have both a Home Page as well as a Blog page.
 
 To do this we need to first of all make a new page. To do so click on *Pages* then *Add New*.
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-add-new-page.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-add-new-page.jpg" alt="Dashboard add new page" /></a></p>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-dashboard-add-new-page.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-add-new-page.jpg" alt="Dashboard add new page" /></a></p>
 
 Use *Home page* as the title, as we will need to refer to it later. Enter the text you wish to be displayed when a visitor lands on your site. This could be a simple welcome message or a little about what you do. You can use the buttons in the bar to format your text and add media (pictures, music etc), polls and forms which I will cover later. On the right hand side you can see the Page Attributes box. This allows you to set the Parent Page and the template. The choices for the template will depend on what are made available in your chosen theme. If you have any images in your page you can choose one to be the featured image. Once finished you can choose to save as a draft to edit again later, preview which allows you to see what it will look like once published.
 
@@ -107,27 +106,27 @@ We are also going to need a page for blog posts to be shown on. So click **Add N
 This time just enter the page name I'm going to call this one Blog and then just publish the page. We do not enter anything other than the title.
 
 Now we have to let WordPress know that we're going to have a Home page and a Blog page. To do so Click on **Appearance** then **Themes**.
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-themes.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-themes.jpg" alt="Dashboard Appearance Themes" /></a></p>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-dashboard-appearance-themes.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="/images/WP-Guide/guide-to-wp-dashboard-appearance-themes.jpg" alt="Dashboard Appearance Themes" /></a></p>
 
 This will open the **Theme customisation** page. From the panel on the right, click on **Static Front Page** under **Layout**. Then **Front Page Displays A Static Page**. From the drop down menus select your *home page* name and *blog page* name under *Front Page* and *Posts Page* respectively as shown below.
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-theme-customisation.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-theme-customisation.jpg" alt="Theme Customisation" /></a></p>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-theme-customisation.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-theme-customisation.jpg" alt="Theme Customisation" /></a></p>
 
 Click **Save and Publish** to save your changes. Pop open the bar again and click on **Close** to return to the Manage Themes page.
 <p style="text-align: center;">Click on **Theme options**.</p>
 
-<p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-theme-options.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-theme-options.jpg" alt="Dashboard Appearance Theme Options" /></a></p>
+<p><a href="/images/WP-Guide/guide-to-wp-dashboard-appearance-theme-options.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-appearance-theme-options.jpg" alt="Dashboard Appearance Theme Options" /></a></p>
 On this page you can choose various options depending on which theme you have chosen. As you can see in the image above the Skeptical theme allows us to choose the colour scheme and whether to show the RSS link in the Header. I'm going to choose the red theme and not to show the RSS link as I am going to add that in my social links widget which I will get to next. Remember to click **Save Options** to save your changes.
 
 Next click on **Widgets** under **Appearance** and we will set up our widgets that appear on the right and bottom of each page or post when using the default template.
-<p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-widgets.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-widgets.jpg" alt="Dashboard Appearance Widgets" /></a></p>
+<p><a href="/images/WP-Guide/guide-to-wp-dashboard-appearance-widgets.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-appearance-widgets.jpg" alt="Dashboard Appearance Widgets" /></a></p>
 As you can see there are many options to choose from here. I'm not going to go into detail on each of them but I will highlight a few. The bulk of the window is taken up with the available widgets, each widget has a short description under it. To use a widget simply drag it to an open widget area on the right. Opening a widget area is as simple as clicking the triangle on the right of the widget title. Lets start by adding the Search widget to the Sidebar Widget Area by dragging it over. Notice that the box for the Sidebar widget got a little longer when we added the widget. We can add as many widgets as we want to each area it adjusts accordingly. Clicking the triangle to the right of the widget title allows us to make changes to the widget. In the case of the Search widget that allows us to change the title. I'm going to leave it blank but you can enter a name if you want.
 
 I'm going to need some images for the Social links so lets upload them now. We need to go to **Media** and **Add New**.
-<p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media.jpg" alt="Dashboard Add New Media" /></a></p>
+<p><a href="/images/WP-Guide/guide-to-wp-dashboard-new-media.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-new-media.jpg" alt="Dashboard Add New Media" /></a></p>
 <p>From this screen we can either click **Select Files** to open a standard File Open Browse windows in your Operating System or you can find the files you want and drag them to the dotted box and drop. Once you chosen the files to upload a screen similar to the one below will be shown.</p>
-<p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media-uploading.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media-uploading.jpg" alt="Dashboard New media Uploading" /></a></p>
+<p><a href="/images/WP-Guide//guide-to-wp-dashboard-new-media-uploading.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-new-media-uploading.jpg" alt="Dashboard New media Uploading" /></a></p>
 As you can see I have chosen 5 files to be used as my icons for the Social Media Links widget. Once uploaded click on **Edit** to view the attachment details page.
-<p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-media-edit-info.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-media-edit-info.jpg" alt="Dashboard Media edit info" /></a></p>
+<p><a href="/images/WP-Guide/guide-to-wp-dashboard-media-edit-info.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-media-edit-info.jpg" alt="Dashboard Media edit info" /></a></p>
 On this page you can see various details of the media item. In this case it is the icon for Facebook. Enter any details you want and take note of the File URL as shown on the right, we're going to need that later. Once your finished entering details click the **Update button** to save your changes.
 
 Next we're going to set up the Social links widget. For this we are going to use a text widget which allows us to enter html etc. Note WordPress.com does not allow various objects to be embedded including flash objects. For more info see this page from the support site.<a title="http://en.support.wordpress.com/code/" href="http://en.support.wordpress.com/code/" target="_blank">http://en.support.wordpress.com/code/</a>
@@ -201,13 +200,13 @@ We continue adding widgets including the Meta widget which allows us to log in t
 Let's make a page where visitors can contact us without them needing our email address. Click on **Pages Add New** again.
 
 We will call this page **Contact Us** and then click on the third button below the **Page Title** to **Add a Custom Form**.
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-add-custom-form.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-add-custom-form.jpg" alt="Add Custom Form" /></a></p>
+<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-add-custom-form.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-add-custom-form.jpg" alt="Add Custom Form" /></a></p>
 This pop up window allows us to create a form. Moving your mouse over each field highlights it and brings up the options to Move or Edit the field. Clicking on **Move** allows you to drag and drop the field where you would like it placed. Clicking **Edit** allows you to edit each field. With option to change the label and also the field type. For more info on all the options available follow this link <a title="Contact Form further info" href="http://en.support.wordpress.com/contact-form/" target="_blank">http://en.support.wordpress.com/contact-form/</a>.
 
 Arrange the fields as you like I'm going to leave it as is. Lets click on **Email Notifications** at the top. This allows you to enter an alternate email address to send the responses to and to change the subject line. There is no need to do this if you want the emails to go to your email address as registered with WordPress.com. If you do make changes remember to save them by clicking the blue **Save** and go back to form builder button. Once you have finished building your form click **Add this form to my post** to save the form. You will now see the short codes for the form. If you wish to enter text to go between fields carefully enter it between brackets e.g."] text here [" If you enter text between these bracket [ ] you will cause errors in your form. Again when you have finished making any changes hit the *publish button*.
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-contactus.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-contactus.jpg" alt="Finished Contact Form as seen on page." /></a></p>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-contactus.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-contactus.jpg" alt="Finished Contact Form as seen on page." /></a></p>
 Next we will add a simple navigation menu to allow visitors to get around our site. To do this we click on **Appearance and Menus**.
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-menus.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-menus.jpg" alt="Dashboard Appearance Menus" /></a></p>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-dashboard-appearance-menus.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-appearance-menus.jpg" alt="Dashboard Appearance Menus" /></a></p>
 Click **Create Menu** to begin creating our first menu. Different themes support different numbers of menus. Some allow more than one, whereas others including the Skeptical theme supports only one menu.
 
 The first thing to do is give the menu a name I chose Navigation. Once you do that a new check box will appear with the option to _Automatically add new top-level pages_. Select this if you want all top-level pages to be automatically added. I prefer to leave this unselected to allow me create sub-menus and hide pages from the navigation menu. However you can check it if you want all pages to appear in your menu.
@@ -217,16 +216,16 @@ We add the *Home page* and the *Blog page* and the *About page* to the menu by c
 You can also add custom Links to the menu by entering the URL and label. Once you have items in the menu you can rearrange them by dragging and dropping just like the widgets. If you indent one item below another then it will become a sub item of the item above. Under the Theme Locations box you can choose the Primary Navigation (menu) to use for your site. Select your menu from the drop down.
 
 Our menu now looks like this.
-<p style="text-align: center;"> <a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-navigation-menu.jpg" target="_blank"> <img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-navigation-menu.jpg" alt="Navigation menu"> </a> </p>
+<p style="text-align: center;"> <a href="/images/WP-Guide/guide-to-wp-navigation-menu.jpg" target="_blank"> <img src="/images/WP-Guide/guide-to-wp-navigation-menu.jpg" alt="Navigation menu"> </a> </p>
 
 Don't forget to click **Save Menu** to save any changes you have made.
 
 Lets add a custom header to our site. Click on **Appearance** then Header. The Skeptical theme prefers a header image that is 940 x 200 pixels. In true Blue Peter style, here is one I made earlier :D
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-easyguidetologo.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-easyguidetologo.jpg" alt="Easy guide to logo" /></a></p>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-easyguidetologo.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-easyguidetologo.jpg" alt="Easy guide to logo" /></a></p>
 All that's left to do now is edit the About Page to let visitors know more about the site. This is done by clicking **Edit** under About in the Pages section.
 
 WordPress.com allows you to connect your blog to social network sites and automatically share posts with fans and friends. To do so click **Settings** then **Sharing**.
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-publicize.jpg"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-publicize.jpg" alt="Publicize" /></a></p>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-publicize.jpg"><img src="/images/WP-Guide/guide-to-wp-publicize.jpg" alt="Publicize" /></a></p>
 Here we have the Publicize settings page. Entering the details for each connection will allow WordPress.com to share your posts on these social network sites.
 
 To see the finished site as used in the guide head over to <a title="http://easyguideto.wordpress.com" href="http://easyguideto.wordpress.com" target="_blank">http://easyguideto.wordpress.com</a>

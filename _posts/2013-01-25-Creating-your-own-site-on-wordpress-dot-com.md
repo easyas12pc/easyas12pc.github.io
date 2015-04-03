@@ -6,11 +6,14 @@ Many people would like to create their own website. Some struggle to get started
 
 I'll show you how to add a page and if appropriate a blog on the same site, how to add a navigation menu and a contact form to allow visitors to leave you messages and how to add some buttons to link to your pages on social networking sites. There will be some stuff that can be done within the <a title="WYSIWYG" href="http://en.wikipedia.org/wiki/WYSIWYG" target="_blank" rel="wikipedia">WYSIWYG</a> (_What You See Is What You Get_) system of each website creation service and some that has to be coded in HTML (<a title="HTML" href="http://en.wikipedia.org/wiki/HTML" target="_blank" rel="wikipedia">HyperText Markup Language</a>). Where I have to use html I'll show you the code and a link to more info on what I used at <a title="W3 Schools" href="http://www.w3schools.com/" target="_blank">W3 Schools</a>. This is a great resource if you need to find out how to do something in HTML or even <a title="Cascading Style Sheets" href="http://en.wikipedia.org/wiki/CSS" target="_blank">CSS </a>(Cascading Style Sheets).
 
-I'm starting with Wordpress.com as that is what I am currently using. I'll pop a question over at the Facebook page for the next edition of the guide with a few choices of where you would like me to make a guide on next. Single images open up in a new window. If any don't please let me know. Grab a cup of your beverage of choice and we shall begin.
+I'm starting with Wordpress.com as that is what I am currently using. I'll pop a question over at the Facebook page for the next edition of the guide with a few choices of where you would like me to make a guide on next. 
+
+Grab a cup of your beverage of choice and we shall begin.
 
 First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the **get started** button to begin.
 
 ![My helpful screenshot]({{ site.url }}/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg)
+<p style="text-align: center;">Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site.</p>
 
 
 Lets go back to **My blogs** and click on **Blog Admin**.

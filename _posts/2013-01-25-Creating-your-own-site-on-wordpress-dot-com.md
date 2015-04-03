@@ -6,9 +6,9 @@ Many people would like to create their own website. Some struggle to get started
 
 I'll show you how to add a page and if appropriate a blog on the same site, how to add a navigation menu and a contact form to allow visitors to leave you messages and how to add some buttons to link to your pages on social networking sites. There will be some stuff that can be done within the <a title="WYSIWYG" href="http://en.wikipedia.org/wiki/WYSIWYG" target="_blank" rel="wikipedia">WYSIWYG</a> (_What You See Is What You Get_) system of each website creation service and some that has to be coded in HTML (<a title="HTML" href="http://en.wikipedia.org/wiki/HTML" target="_blank" rel="wikipedia">HyperText Markup Language</a>). Where I have to use html I'll show you the code and a link to more info on what I used at <a title="W3 Schools" href="http://www.w3schools.com/" target="_blank">W3 Schools</a>. This is a great resource if you need to find out how to do something in HTML or even <a title="Cascading Style Sheets" href="http://en.wikipedia.org/wiki/CSS" target="_blank">CSS </a>(Cascading Style Sheets).
 
-I'm starting with Wordpress.com as that is what I am currently using. I'll pop a question over at the Facebook page for the next edition of the guide with a few choices of where you would like me to make a guide on next. There will be a lot of images in this guide clicking any image will open up a larger version with buttons to click through each image in that group of images. Single images open up in a new window. If any don't please let me know. Grab a cup of your beverage of choice and we shall begin.
+I'm starting with Wordpress.com as that is what I am currently using. I'll pop a question over at the Facebook page for the next edition of the guide with a few choices of where you would like me to make a guide on next. Single images open up in a new window. If any don't please let me know. Grab a cup of your beverage of choice and we shall begin.
 
-First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the get started button to begin.
+First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the *get started* button to begin.
 
 
 Lets go back to *My blogs* and click on *Blog Admin*.
@@ -21,9 +21,9 @@ To do this we need to first of all make a new page. To do so click on *Pages* th
 
 Use _Home page_ as the title, as we will need to refer to it later. Enter the text you wish to be displayed when a visitor lands on your site. This could be a simple welcome message or a little about what you do. You can use the buttons in the bar to format your text and add media (pictures, music etc), polls and forms which I will cover later. On the right hand side you can see the Page Attributes box. This allows you to set the Parent Page and the template. The choices for the template will depend on what are made available in your chosen theme. If you have any images in your page you can choose one to be the featured image. Once finished you can choose to save as a draft to edit again later, preview which allows you to see what it will look like once published.
 
-You can also change the posts visibility, who can see the page or post. Public is everybody, Password Protected means only those whom you have given the password to and Private is only those with access to the admin pages for your site can see this page. For your Home Page I recommend public so everyone can see it. Once you are happy click publish.
+You can also change the posts visibility, who can see the page or post. Public is everybody, Password Protected means only those whom you have given the password to and Private is only those with access to the admin pages for your site can see this page. For your Home Page I recommend public so everyone can see it. Once you are happy click *Publish*.
 
-We are also going to need a page for blog posts to be shown on. So click Add New Page again.
+We are also going to need a page for blog posts to be shown on. So click *Add New Page* again.
 This time just enter the page name I'm going to call this one Blog and then just publish the page. We do not enter anything other than the title.
 
 Now we have to let WordPress know that we're going to have a Home page and a Blog page. To do so Click on *Appearance* then *Themes*.
@@ -32,8 +32,8 @@ Now we have to let WordPress know that we're going to have a Home page and a Blo
 This will open the *Theme customisation* page. From the panel on the right, click on *Static Front Page* under *Layout*. Then *Front Page Displays A Static Page*. From the drop down menus select your _home page_ name and _blog page_ name under _Front Page_ and _Posts Page_ respectively as shown below.
 <p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-theme-customisation.jpg" target="_blank"><img class="aligncenter  wp-image-822" src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-theme-customisation.jpg" alt="Theme Customisation" /></a></p>
 
-Click *Save and Publish* to save your changes. Pop open the bar again and click on Close to return to the Manage Themes page.
-<p style="text-align: center;">Click on Theme options.</p>
+Click *Save and Publish* to save your changes. Pop open the bar again and click on *Close* to return to the Manage Themes page.
+<p style="text-align: center;">Click on *Theme options*.</p>
 
 <p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-theme-options.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-appearance-theme-options.jpg" alt="Dashboard Appearance Theme Options" /></a></p>
 On this page you can choose various options depending on which theme you have chosen. As you can see in the image above the Skeptical theme allows us to choose the colour scheme and whether to show the RSS link in the Header. I'm going to choose the red theme and not to show the RSS link as I am going to add that in my social links widget which I will get to next. Remember to click *Save Options* to save your changes.
@@ -46,9 +46,9 @@ I'm going to need some images for the Social links so lets upload them now. We n
 <p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media.jpg" alt="Dashboard Add New Media" /></a></p>
 <p>From this screen we can either click *Select Files* to open a standard File Open Browse windows in your Operating System or you can find the files you want and drag them to the dotted box and drop. Once you chosen the files to upload a screen similar to the one below will be shown.</p>
 <p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media-uploading.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-new-media-uploading.jpg" alt="Dashboard New media Uploading" /></a></p>
-As you can see I have chosen 5 files to be used as my icons for the Social Media Links widget. Once uploaded click on Edit to view the attachment details page.
+As you can see I have chosen 5 files to be used as my icons for the Social Media Links widget. Once uploaded click on *Edit* to view the attachment details page.
 <p><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-media-edit-info.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-dashboard-media-edit-info.jpg" alt="Dashboard Media edit info" /></a></p>
-On this page you can see various details of the media item. In this case it is the icon for Facebook. Enter any details you want and take note of the File URL as shown on the right, we're going to need that later. Once your finished entering details click the Update button to save your changes.
+On this page you can see various details of the media item. In this case it is the icon for Facebook. Enter any details you want and take note of the File URL as shown on the right, we're going to need that later. Once your finished entering details click the *Update button* to save your changes.
 
 Next we're going to set up the Social links widget. For this we are going to use a text widget which allows us to enter html etc. Note WordPress.com does not allow various objects to be embedded including flash objects. For more info see this page from the support site.<a title="http://en.support.wordpress.com/code/" href="http://en.support.wordpress.com/code/" target="_blank">http://en.support.wordpress.com/code/</a>
 
@@ -86,7 +86,7 @@ We continue adding widgets including the Meta widget which allows us to log in t
 
 Let's make a page where visitors can contact us without them needing our email address. Click on *Pages Add New* again.
 
-We will call this page *Contact Us* and then click on the third button below the Page Title to Add a Custom Form.
+We will call this page *Contact Us* and then click on the third button below the *Page Title* to *Add a Custom Form*.
 <p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-add-custom-form.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-add-custom-form.jpg" alt="Add Custom Form" /></a></p>
 This pop up window allows us to create a form. Moving your mouse over each field highlights it and brings up the options to Move or Edit the field. Clicking on *Move* allows you to drag and drop the field where you would like it placed. Clicking *Edit* allows you to edit each field. With option to change the label and also the field type. For more info on all the options available follow this link <a title="Contact Form further info" href="http://en.support.wordpress.com/contact-form/" target="_blank">http://en.support.wordpress.com/contact-form/</a>.
 

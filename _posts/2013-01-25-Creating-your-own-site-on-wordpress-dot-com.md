@@ -12,7 +12,7 @@ Grab a cup of your beverage of choice and we shall begin.
 
 First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the **get started** button to begin.
 
-![alt=Wordpress Creation Page]({{ site.url }}/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg)
+![Wordpress Creation Page]({{ site.url }}/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg)
 <p style="text-align: center;">Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site.</p>
 
 ![Wordpress Post Confirmation Page step 1]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation.jpg)
@@ -54,10 +54,14 @@ First we have to head on over to <a title="WordPress.com" href="http://wordpress
 ![Wordpress Account Settings Page]({{ site.url }}/images/WP-Guide/guide-to-wp-settings-account.jpg)
 <p style="text-align: center;">The account setting page allows you to make changes to your account.</p>
 
+<p></p>
+<p></p>
+<p>Lets go back to **My blogs** and click on **Blog Admin**.</p>
+<p style="text-align: center;"></p>
+![Wordpress Site Dashboard]({{ site.url }}/images/WP-Guide/guide-to-wp-site-dashboard.jpg)
+<p style="text-align: center;">Site Dashboard</p>
 
-
-Lets go back to **My blogs** and click on **Blog Admin**.
-<p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/03/guide-to-wp-site-dashboard.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/03/guide-to-wp-site-dashboard.jpg" alt="Site Dashboard" /></a></p>
+<p></p>
 
 As you can see there are lots of items down the menu on the left, each of which may have various options underneath that. Lets start first of all by deciding whether this is a blog or a website. By default WordPress.com expects the front page of your site to be a blog roll page. This page shows either the full text of each post or excerpts of each post. You can if you wish change this to allow your site to have both a Home Page as well as a Blog page.
 

@@ -13,43 +13,43 @@ Grab a cup of your beverage of choice and we shall begin.
 First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the **get started** button to begin.
 
 ![Wordpress Creation Page]({{ site.url }}/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg)
-<p style="text-align: center;">Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site.</p>
+<p style="text-align: center; font-size: 14px;">Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site.</p>
 
 ![Wordpress Post Confirmation Page step 1]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation.jpg)
-<p style="text-align: center;">If you would like to find some interesting blogs to follow you can select them from this page.</p>
+<p style="text-align: center; font-size: 14px;">If you would like to find some interesting blogs to follow you can select them from this page.</p>
 
 ![Wordpress Post Confirmation Page step 2]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation2.jpg)
-<p style="text-align: center;">This page allows you to find your friends from other social network sites and follow any blogs they may have at WordPress.com</p>
+<p style="text-align: center; font-size: 14px;">This page allows you to find your friends from other social network sites and follow any blogs they may have at WordPress.com</p>
 
 ![Wordpress Post Confirmation Page step 3]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation3.jpg)
-<p style="text-align: center;">This page allows you to set your <strong>Blog Title</strong>, <strong>Tagline</strong> and <strong>Language</strong> you will be blogging in.</p>
+<p style="text-align: center; font-size: 14px;">This page allows you to set your <strong>Blog Title</strong>, <strong>Tagline</strong> and <strong>Language</strong> you will be blogging in.</p>
 
 ![Wordpress Choose a Theme Page]({{ site.url }}/images/WP-Guide/guide-to-wp-choose-a-theme.jpg)
-<p style="text-align: center;">This page allows you to choose a theme from the over 200 which are available. Some themes are not free and require a purchase to use.</p>
+<p style="text-align: center; font-size: 14px;">This page allows you to choose a theme from the over 200 which are available. Some themes are not free and require a purchase to use.</p>
 
 ![Wordpress Theme Info Page]({{ site.url }}/images/WP-Guide/guide-to-wp-theme-more-info.jpg)
-<p style="text-align: center;">As you can see I have chosen to go with the Skeptical theme and you can see further information on the theme on this page.</p>
+<p style="text-align: center; font-size: 14px;">As you can see I have chosen to go with the Skeptical theme and you can see further information on the theme on this page.</p>
 
 ![Wordpress Create Your First Post Page]({{ site.url }}/images/WP-Guide/guide-to-wp-first-post.jpg)
-<p style="text-align: center;">Next we have to create our first post. I selected Text for the first post.</p>
+<p style="text-align: center; font-size: 14px;">Next we have to create our first post. I selected Text for the first post.</p>
 
 ![Wordpress First Post Entry Page]({{ site.url }}/images/WP-Guide/guide-to-wp-firstposttext.jpg)
-<p style="text-align: center;">Just enter your post title and whatever post text you wish to enter.</p>
+<p style="text-align: center; font-size: 14px;">Just enter your post title and whatever post text you wish to enter.</p>
 
 ![Wordpress Stats Page]({{ site.url }}/images/WP-Guide/guide-to-wp-stats.jpg)
-<p style="text-align: center;">This page allows you to see various stats related to your site. Including how many unique visitors, how many pages they viewed, how they arrived at your site and any links they used to leave your site.</p>
+<p style="text-align: center; font-size: 14px;">This page allows you to see various stats related to your site. Including how many unique visitors, how many pages they viewed, how they arrived at your site and any links they used to leave your site.</p>
 
 ![Wordpress My Blogs Page]({{ site.url }}/images/WP-Guide/guide-to-wp-my-blogs.jpg)
-<p style="text-align: center;">This page allows you to see all the sites that you have on WordPress.com and particular pages of each admin section.</p>
+<p style="text-align: center; font-size: 14px;">This page allows you to see all the sites that you have on WordPress.com and particular pages of each admin section.</p>
 
 ![Wordpress Freshly Pressed Page]({{ site.url }}/images/WP-Guide/guide-to-wp-freshly-pressed.jpg)
-<p style="text-align: center;">Along the top blue bar we have a series of options. The first is the **Reader** page. This allows you read any blogs you have followed. Clicking **Freshly Pressed** brings up the *Reader* too however it shows the blogs that have been highlighted by the WordPress staff and placed in the *Freshly Pressed section*.</p>
+<p style="text-align: center; font-size: 14px;">Along the top blue bar we have a series of options. The first is the **Reader** page. This allows you read any blogs you have followed. Clicking **Freshly Pressed** brings up the *Reader* too however it shows the blogs that have been highlighted by the WordPress staff and placed in the *Freshly Pressed section*.</p>
 
 ![Wordpress Profile Drop Down Menu]({{ site.url }}/images/WP-Guide/guide-to-wp-profiledropdown-menu.jpg)
-<p style="text-align: center;">Clicking on your portrait on the right hand side of the blue bar drops down the profile menu.</p>
+<p style="text-align: center; font-size: 14px;">Clicking on your portrait on the right hand side of the blue bar drops down the profile menu.</p>
 
 ![Wordpress Account Settings Page]({{ site.url }}/images/WP-Guide/guide-to-wp-settings-account.jpg)
-<p style="text-align: center;">The account setting page allows you to make changes to your account.</p>
+<p style="text-align: center; font-size: 14px;">The account setting page allows you to make changes to your account.</p>
 
 ![Wordpress Account Settings Page]({{ site.url }}/images/WP-Guide/guide-to-wp-settings-account.jpg)
 <p style="text-align: center;">The account setting page allows you to make changes to your account.</p>

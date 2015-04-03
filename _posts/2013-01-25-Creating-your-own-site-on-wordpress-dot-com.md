@@ -108,12 +108,14 @@ This time just enter the page name I'm going to call this one Blog and then just
 Now we have to let WordPress know that we're going to have a Home page and a Blog page. To do so Click on **Appearance** then **Themes**.
 <p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-dashboard-appearance-themes.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="/images/WP-Guide/guide-to-wp-dashboard-appearance-themes.jpg" alt="Dashboard Appearance Themes" /></a></p>
 
+<br>
 This will open the **Theme customisation** page. From the panel on the right, click on **Static Front Page** under **Layout**. Then **Front Page Displays A Static Page**. From the drop down menus select your *home page* name and *blog page* name under *Front Page* and *Posts Page* respectively as shown below.
 <p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-theme-customisation.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-theme-customisation.jpg" alt="Theme Customisation" /></a></p>
 
 Click **Save and Publish** to save your changes. Pop open the bar again and click on **Close** to return to the Manage Themes page.
 <p style="text-align: center;">Click on **Theme options**.</p>
 
+<br>
 <p><a href="/images/WP-Guide/guide-to-wp-dashboard-appearance-theme-options.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-appearance-theme-options.jpg" alt="Dashboard Appearance Theme Options" /></a></p>
 On this page you can choose various options depending on which theme you have chosen. As you can see in the image above the Skeptical theme allows us to choose the colour scheme and whether to show the RSS link in the Header. I'm going to choose the red theme and not to show the RSS link as I am going to add that in my social links widget which I will get to next. Remember to click **Save Options** to save your changes.
 
@@ -123,9 +125,13 @@ As you can see there are many options to choose from here. I'm not going to go i
 
 I'm going to need some images for the Social links so lets upload them now. We need to go to **Media** and **Add New**.
 <p><a href="/images/WP-Guide/guide-to-wp-dashboard-new-media.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-new-media.jpg" alt="Dashboard Add New Media" /></a></p>
+<br>
 <p>From this screen we can either click **Select Files** to open a standard File Open Browse windows in your Operating System or you can find the files you want and drag them to the dotted box and drop. Once you chosen the files to upload a screen similar to the one below will be shown.</p>
+<br>
 <p><a href="/images/WP-Guide//guide-to-wp-dashboard-new-media-uploading.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-new-media-uploading.jpg" alt="Dashboard New media Uploading" /></a></p>
+<br>
 As you can see I have chosen 5 files to be used as my icons for the Social Media Links widget. Once uploaded click on **Edit** to view the attachment details page.
+<br>
 <p><a href="/images/WP-Guide/guide-to-wp-dashboard-media-edit-info.jpg" target="_blank"><img src="/images/WP-Guide/guide-to-wp-dashboard-media-edit-info.jpg" alt="Dashboard Media edit info" /></a></p>
 On this page you can see various details of the media item. In this case it is the icon for Facebook. Enter any details you want and take note of the File URL as shown on the right, we're going to need that later. Once your finished entering details click the **Update button** to save your changes.
 
@@ -140,7 +146,9 @@ alt="text to show when moused over" />
 </a>
 {% endhighlight %}
 
+<br>
 First we need get the address for the image. This was the File URL that I said to take note of earlier. Lets enter that and see how that looks linking to the _Easy as 1 2 PC Facebook Page_.
+<br>
 
 {% highlight html %}
 <a href"http://www.facebook.com/easyas12pc" target="_blank">
@@ -148,7 +156,10 @@ First we need get the address for the image. This was the File URL that I said t
 alt="Easy as 1 2 PC Facebook Page">
 {% endhighlight %}
 
+<br>
 In order to open the link in a new tab or window, depending on which browser is used to access the site, we use the following addition to the a href .
+<br>
+
 {% highlight html %}
 target="_blank"
 {% endhighlight %}
@@ -165,11 +176,15 @@ We do the same for each of the social links until we end up with something that 
 alt="Easy as 1 2 PC on Youtube" /></a>
 {% endhighlight %}
 
+<br>
+
 {% highlight html %}
 <a href="http://www.facebook.com/easyas12pc" target="_blank">
 <img src="http://easyguideto.files.wordpress.com/2013/01/facebook40.png"
 alt="Easy as 1 2 PC on Facebook"/></a>
 {% endhighlight %}
+
+<br>
 
 {% highlight html %}
 <a href="http://plus.google.com/116907261384504584106" target="_blank" rel="publisher">
@@ -177,11 +192,15 @@ alt="Easy as 1 2 PC on Facebook"/></a>
 alt="Easy as 1 2 PC on Google+" /></a>
 {% endhighlight %}
 
+<br>
+
 {% highlight html %}
 <a href="http://www.twitter.com/easyas12pc" target="_blank">
 <img src="http://easyguideto.files.wordpress.com/2013/01/twitter40.png"
 alt="Easy as 1 2 PC on Twitter" /></a>
 {% endhighlight %}
+
+<br>
 
 {% highlight html %}
 <a href="http://http://easyguideto.wordpress.com/feed/" target="_blank>

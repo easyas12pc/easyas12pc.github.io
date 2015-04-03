@@ -10,6 +10,8 @@ I'm starting with Wordpress.com as that is what I am currently using. I'll pop a
 
 First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the **get started** button to begin.
 
+![My helpful screenshot]({{ site.url }}/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg)
+
 
 Lets go back to **My blogs** and click on **Blog Admin**.
 <p style="text-align: center;"><a href="http://easyas12pc.files.wordpress.com/2013/03/guide-to-wp-site-dashboard.jpg" target="_blank"><img src="http://easyas12pc.files.wordpress.com/2013/03/guide-to-wp-site-dashboard.jpg" alt="Site Dashboard" /></a></p>

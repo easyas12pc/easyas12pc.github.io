@@ -12,53 +12,78 @@ Grab a cup of your beverage of choice and we shall begin.
 
 First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the **get started** button to begin.
 
+<br>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" target="_blank"><img title="WordPress Account creation" src="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" alt="Enter your details to begin the WordPress.com Account creation process. Click Sign up on the Basic option to create a free site." /></a></p>
 
-<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" alt="Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site." /></a></p>
-
-<br/>
+<br>
 <p style="text-align: center";>Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site.</p>
-<br/>
+<br>
 
-<br/>
-<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-post-confirmation.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="/images/WP-Guide/guide-to-wp-post-confirmation.jpg" alt="If you would like to find some interesting blogs to follow you can select them from this page." /></a></p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-post-confirmation.jpg" target="_blank"><img title=Post confirmation page 1" src="/images/WP-Guide/guide-to-wp-post-confirmation.jpg" alt="If you would like to find some interesting blogs to follow you can select them from this page." /></a></p>
 <p>If you would like to find some interesting blogs to follow you can select them from this page.</p>
-<br/>
+<br>
 
-![Wordpress Post Confirmation Page step 2]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation2.jpg)
-<p style="text-align: center; font-size: 14px;">This page allows you to find your friends from other social network sites and follow any blogs they may have at WordPress.com</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-post-confirmation2.jpg" target="_blank"><img title="Follow page" src="/images/WP-Guide/guide-to-wp-post-confirmation2.jpg" alt="This page allows you to find your friends from other social network sites and follow any blogs they may have at WordPress.com" /></a></p>
+<p>This page allows you to find your friends from other social network sites and follow any blogs they may have at WordPress.com</p>
+<br>
 
-![Wordpress Post Confirmation Page step 3]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation3.jpg)
-<p style="text-align: center; font-size: 14px;">This page allows you to set your <strong>Blog Title</strong>, <strong>Tagline</strong> and <strong>Language</strong> you will be blogging in.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-post-confirmation3.jpg" target="_blank"><img title="Post confirmation page 1" src="/images/WP-Guide/guide-to-wp-post-confirmation3.jpg" alt="This page allows you to set your Blog Title, Tagline and Language you will be blogging in.m" /></a></p>
+<p>This page allows you to set your <strong>Blog Title</strong>, <strong>Tagline</strong> and <strong>Language</strong> you will be blogging in.</p>
+<br>
 
-![Wordpress Choose a Theme Page]({{ site.url }}/images/WP-Guide/guide-to-wp-choose-a-theme.jpg)
-<p style="text-align: center; font-size: 14px;">This page allows you to choose a theme from the over 200 which are available. Some themes are not free and require a purchase to use.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-choose-a-theme.jpg" target="_blank"><img title="Choose a theme" src="/images/WP-Guide/guide-to-wp-post-confirmation3.jpg" alt="This page allows you to choose a theme from the over 200 which are available. Some themes are not free and require a purchase to use." /></a></p>
+<p>This page allows you to choose a theme from the over 200 which are available. Some themes are not free and require a purchase to use.</p>
+<br>
 
-![Wordpress Theme Info Page]({{ site.url }}/images/WP-Guide/guide-to-wp-theme-more-info.jpg)
-<p style="text-align: center; font-size: 14px;">As you can see I have chosen to go with the Skeptical theme and you can see further information on the theme on this page.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-theme-more-info.jpg" target="_blank"><img title="Choose a theme" src="/images/WP-Guide/guide-to-wp-theme-more-info.jpg" alt="As you can see I have chosen to go with the Skeptical theme and you can see further information on the theme on this page." /></a></p>
+<p>As you can see I have chosen to go with the Skeptical theme and you can see further information on the theme on this page.</p>
+<br>
 
-![Wordpress Create Your First Post Page]({{ site.url }}/images/WP-Guide/guide-to-wp-first-post.jpg)
-<p style="text-align: center; font-size: 14px;">Next we have to create our first post. I selected Text for the first post.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-first-post.jpg" target="_blank"><img title="First Post" src="/images/WP-Guide/guide-to-wp-first-post.jpg" alt="Next we have to create our first post. I selected Text for the first post." /></a></p>
+<p>Next we have to create our first post. I selected Text for the first post.</p>
+<br>
 
-![Wordpress First Post Entry Page]({{ site.url }}/images/WP-Guide/guide-to-wp-firstposttext.jpg)
-<p style="text-align: center; font-size: 14px;">Just enter your post title and whatever post text you wish to enter.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-firstposttext.jpg" target="_blank"><img title="First Post part 2" src="/images/WP-Guide/guide-to-wp-firstposttext.jpg" alt=Just enter your post title and whatever post text you wish to enter." /></a></p>
+<p>Just enter your post title and whatever post text you wish to enter.</p>
+<br>
 
-![Wordpress Stats Page]({{ site.url }}/images/WP-Guide/guide-to-wp-stats.jpg)
-<p style="text-align: center; font-size: 14px;">This page allows you to see various stats related to your site. Including how many unique visitors, how many pages they viewed, how they arrived at your site and any links they used to leave your site.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-stats.jpg" target="_blank"><img title="WordPress Stats" src="/images/WP-Guide/guide-to-wp-stats.jpg" alt=This page allows you to see various stats related to your site. Including how many unique visitors, how many pages they viewed, how they arrived at your site and any links they used to leave your site." /></a></p>
+<p>This page allows you to see various stats related to your site. Including how many unique visitors, how many pages they viewed, how they arrived at your site and any links they used to leave your site.</p>
+<br>
 
-![Wordpress My Blogs Page]({{ site.url }}/images/WP-Guide/guide-to-wp-my-blogs.jpg)
-<p style="text-align: center; font-size: 14px;">This page allows you to see all the sites that you have on WordPress.com and particular pages of each admin section.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-my-blogs.jpg" target="_blank"><img title="My WordPress Blogs" src="/images/WP-Guide/guide-to-wp-my-blogs.jpg" alt=This page allows you to see all the sites that you have on WordPress.com and particular pages of each admin section.." /></a></p>
+<p>This page allows you to see all the sites that you have on WordPress.com and particular pages of each admin section.</p>
+<br>
 
-![Wordpress Freshly Pressed Page]({{ site.url }}/images/WP-Guide/guide-to-wp-freshly-pressed.jpg)
-<p style="text-align: center; font-size: 14px;">Along the top blue bar we have a series of options. The first is the **Reader** page. This allows you read any blogs you have followed. Clicking **Freshly Pressed** brings up the *Reader* too however it shows the blogs that have been highlighted by the WordPress staff and placed in the *Freshly Pressed section*.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-freshly-pressed.jpg" target="_blank"><img title="Freshly Pressed" src="/images/WP-Guide/guide-to-wp-freshly-pressed.jpg" alt="Along the top blue bar we have a series of options. The first is the Reader page. This allows you read any blogs you have followed. Clicking Freshly Pressed brings up the Reader too however it shows the blogs that have been highlighted by the WordPress staff and placed in the *Freshly Pressed section." /></a></p>
+<p>Along the top blue bar we have a series of options. The first is the <strong>Reader</strong> page. This allows you read any blogs you have followed. Clicking <strong>Freshly Pressed</strong> brings up the <strong>Reader</strong> too however it shows the blogs that have been highlighted by the WordPress staff and placed in the <strong>Freshly Pressed</strong> section.</p>
+<br>
 
-![Wordpress Profile Drop Down Menu]({{ site.url }}/images/WP-Guide/guide-to-wp-profiledropdown-menu.jpg)
-<p style="text-align: center; font-size: 14px;">Clicking on your portrait on the right hand side of the blue bar drops down the profile menu.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-profiledropdown-menu.jpg" target="_blank"><img title="WordPress Profile Menu" src="/images/WP-Guide/guide-to-wp-profiledropdown-menu.jpg" alt="Clicking on your portrait on the right hand side of the blue bar drops down the profile menu." /></a></p>
+<p>Clicking on your portrait on the right hand side of the blue bar drops down the profile menu.</p>
+<br>
 
-![Wordpress Account Settings Page]({{ site.url }}/images/WP-Guide/guide-to-wp-settings-account.jpg)
-<p style="text-align: center; font-size: 14px;">The account setting page allows you to make changes to your account.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-settings-account.jpg" target="_blank"><img title="WordPress Profile Menu" src="/images/WP-Guide/guide-to-wp-settings-account.jpg" alt="The account setting page allows you to make changes to your account." /></a></p>
+<p>The account setting page allows you to make changes to your account.</p>
+<br>
 
-![Wordpress Account Settings Page]({{ site.url }}/images/WP-Guide/guide-to-wp-settings-account.jpg)
-<p style="text-align: center;">The account setting page allows you to make changes to your account.</p>
+<br>
+<p style="text-align: center";><a href="/images/WP-Guide/guide-to-wp-settings-account.jpg" target="_blank"><img title="WordPress Settings" src="/images/WP-Guide/guide-to-wp-settings-account.jpg" alt="The account setting page allows you to make changes to your account." /></a></p>
+<p>The account setting page allows you to make changes to your account.</p>
+<br>
+
 
 <p></p>
 <p></p>

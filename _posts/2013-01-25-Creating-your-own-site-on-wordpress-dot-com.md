@@ -12,7 +12,7 @@ Grab a cup of your beverage of choice and we shall begin.
 
 First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the **get started** button to begin.
 
-<br/>
+
 <p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" alt="Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site." /></a></p>
 
 <br/>

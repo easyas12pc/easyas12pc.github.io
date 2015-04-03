@@ -12,14 +12,16 @@ Grab a cup of your beverage of choice and we shall begin.
 
 First we have to head on over to <a title="WordPress.com" href="http://wordpress.com" target="_blank">WordPress.com</a> to begin the registration process. Click the **get started** button to begin.
 
+<br/>
 <p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" alt="Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site." /></a></p>
 
 <br/>
 <p style="text-align: center;">Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site.</p>
 <br/>
 
-![Wordpress Post Confirmation Page step 1]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation.jpg)
-<p style="text-align: center; font-size: 14px;">If you would like to find some interesting blogs to follow you can select them from this page.</p>
+<br/>
+<p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-post-confirmation.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="/images/WP-Guide/guide-to-wp-post-confirmation.jpg" alt="If you would like to find some interesting blogs to follow you can select them from this page." /></a></p>
+<br/>
 
 ![Wordpress Post Confirmation Page step 2]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation2.jpg)
 <p style="text-align: center; font-size: 14px;">This page allows you to find your friends from other social network sites and follow any blogs they may have at WordPress.com</p>

@@ -55,7 +55,9 @@ Next we're going to set up the Social links widget. For this we are going to use
 Drag a text widget to the Sidebar widget area and drop it under the search widget. It should open on its own but if it doesn't click the little triangle. For each Social Networking page we're going to use a picture as a button which when clicked opens a new tab or window and goes to the appropriate link. The info on how to set this up can be found here <a title="http://www.w3schools.com/html/html_images.asp" href="http://www.w3schools.com/html/html_images.asp" target="_blank">http://www.w3schools.com/html/html_images.asp</a>. I am using an image as a hyperlink. You will find the link to try that near the bottom of the page.
 
 {% highlight html %}
-<code> <a href"destination address"><img src="image address" alt="text to show when moused over" /></a></code>
+<code> <a href"destination address">
+<img src="image address" alt="text to show when moused over" />
+</a></code>
 {% endhighlight %}
 
 First we need get the address for the image. This was the File URL that I said to take note of earlier. Lets enter that and see how that looks linking to the _Easy as 1 2 PC Facebook Page_.

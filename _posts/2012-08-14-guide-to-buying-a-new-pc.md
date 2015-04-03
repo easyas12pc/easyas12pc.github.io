@@ -16,9 +16,7 @@ This is perhaps the greatest question but many people will immediately know the 
 
 <a href="/images/new-pc/cpu_1_t150.jpg"><img title="cpu" src="/images/new-pc/cpu_1_t150.jpg" alt="CPU Image" width="150" height="146" /></a>
 
-Which Central Processing Unit, otherwise known as the Processor, to get is in my opinion this is the single most important
-
-<p style="text-align: justify;">question after which OS to go with. This is the most important piece of hardware in computer. It is still one of deciding factors whether a program will run or not despite recent advances in processor technology, software has advanced as quickly or in some cases quicker than the hardware. Processors can be purchased with between 1 and currently 8 cores. How many cores you need will depend on both your budget and the software you intend to run.</p>
+<p style="text-align: justify;">Which Central Processing Unit, otherwise known as the Processor, to get is in my opinion this is the single most important question after which OS to go with. This is the most important piece of hardware in computer. It is still one of deciding factors whether a program will run or not despite recent advances in processor technology, software has advanced as quickly or in some cases quicker than the hardware. Processors can be purchased with between 1 and currently 8 cores. How many cores you need will depend on both your budget and the software you intend to run.</p>
 <p style="text-align: justify;">As a minimum I would recommend a dual core CPU although in the near future many more programs will be looking for more than two cores. So if you intend to keep your computer as long as possible without any major upgrades before purchasing another a quad core CPU within your budget would be a prudent investment.</p>
 Whether to go with Intel or AMD is a difficult question to answer as it has no clear answer. Both produce equally powerful, efficient and comparable processors.  Which one you go with will probably depend on other factors and has minimum impact on the everyday running of the computer.
 

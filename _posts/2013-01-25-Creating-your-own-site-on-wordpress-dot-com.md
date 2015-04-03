@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Easy as 1 2 PC Guide to Creating Your Own Site on WordPress.com
+title: Creating Your Own Site on WordPress.com
 ---
 Many people would like to create their own website. Some struggle to get started for various reasons. In this series of guides I aim to make this easier. There are many choices on the internet of where to create a free website. From WordPress and Weebly to Google sites, Wix and many more. Over the coming weeks I plan on creating these guides to help you get your site up and running. Nothing fancy to just enough to say that is a website and I did that.
 

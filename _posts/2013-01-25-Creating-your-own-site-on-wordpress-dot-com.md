@@ -69,11 +69,12 @@ First we need get the address for the image. This was the File URL that I said t
 alt="Easy as 1 2 PC Facebook Page">
 {% endhighlight %}
 
+In order to open the link in a new tab or window, depending on which browser is used to access the site, we use the following addition to the a href .
 {% highlight html %}
 target="_blank"
 {% endhighlight %}
 
-Opens the link in a new tab or window depending on which browser is used to access the site.
+
 
 Take care not to make any changes unless it is between quotation marks otherwise it will show as text on the page instead of this:
 <div align="center"><a href="http://www.facebook.com/easyas12pc"> <img src="http://easyguideto.files.wordpress.com/2013/01/facebook40.png" alt="Easy as 1 2 PC Facebook Page" /></a></div>

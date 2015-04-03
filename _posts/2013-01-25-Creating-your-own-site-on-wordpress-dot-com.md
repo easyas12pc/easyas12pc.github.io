@@ -21,7 +21,7 @@ To do this we need to first of all make a new page. To do so click on *Pages* th
 
 Use *Home page* as the title, as we will need to refer to it later. Enter the text you wish to be displayed when a visitor lands on your site. This could be a simple welcome message or a little about what you do. You can use the buttons in the bar to format your text and add media (pictures, music etc), polls and forms which I will cover later. On the right hand side you can see the Page Attributes box. This allows you to set the Parent Page and the template. The choices for the template will depend on what are made available in your chosen theme. If you have any images in your page you can choose one to be the featured image. Once finished you can choose to save as a draft to edit again later, preview which allows you to see what it will look like once published.
 
-You can also change the posts visibility, who can see the page or post. Public is everybody, Password Protected means only those whom you have given the password to and Private is only those with access to the admin pages for your site can see this page. For your Home Page I recommend public so everyone can see it. Once you are happy click *8Publish**.
+You can also change the posts visibility, who can see the page or post. Public is everybody, Password Protected means only those whom you have given the password to and Private is only those with access to the admin pages for your site can see this page. For your Home Page I recommend public so everyone can see it. Once you are happy click **Publish**.
 
 We are also going to need a page for blog posts to be shown on. So click **Add New Page** again.
 This time just enter the page name I'm going to call this one Blog and then just publish the page. We do not enter anything other than the title.
@@ -55,7 +55,7 @@ Next we're going to set up the Social links widget. For this we are going to use
 Drag a text widget to the Sidebar widget area and drop it under the search widget. It should open on its own but if it doesn't click the little triangle. For each Social Networking page we're going to use a picture as a button which when clicked opens a new tab or window and goes to the appropriate link. The info on how to set this up can be found here <a title="http://www.w3schools.com/html/html_images.asp" href="http://www.w3schools.com/html/html_images.asp" target="_blank">http://www.w3schools.com/html/html_images.asp</a>. I am using an image as a hyperlink. You will find the link to try that near the bottom of the page.
 
 {% highlight html %}
-<code> &lt;a href"destination address"&gt;&lt;img src="image address" alt="text to show when moused over" /&gt;&lt;/a&gt;</code>
+<code> <a href"destination address"><img src="image address" alt="text to show when moused over" /></a></code>
 {% endhighlight %}
 
 First we need get the address for the image. This was the File URL that I said to take note of earlier. Lets enter that and see how that looks linking to the _Easy as 1 2 PC Facebook Page_.

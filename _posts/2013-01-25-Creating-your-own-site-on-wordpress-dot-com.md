@@ -14,9 +14,9 @@ First we have to head on over to <a title="WordPress.com" href="http://wordpress
 
 <p style="text-align: center;"><a href="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" target="_blank"><img title="Dashboard Appearance Themes" src="/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg" alt="Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site." /></a></p>
 
-<p></p>
+<br/>
 <p style="text-align: center;">Enter your details to begin the WordPress.com Account creation process. Click <strong>Sign up</strong> on the <strong>Basic</strong> option to create a free site.</p>
-<p></p>
+<br/>
 
 ![Wordpress Post Confirmation Page step 1]({{ site.url }}/images/WP-Guide/guide-to-wp-post-confirmation.jpg)
 <p style="text-align: center; font-size: 14px;">If you would like to find some interesting blogs to follow you can select them from this page.</p>

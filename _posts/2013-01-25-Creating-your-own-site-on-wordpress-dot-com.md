@@ -55,30 +55,48 @@ Next we're going to set up the Social links widget. For this we are going to use
 Drag a text widget to the Sidebar widget area and drop it under the search widget. It should open on its own but if it doesn't click the little triangle. For each Social Networking page we're going to use a picture as a button which when clicked opens a new tab or window and goes to the appropriate link. The info on how to set this up can be found here <a title="http://www.w3schools.com/html/html_images.asp" href="http://www.w3schools.com/html/html_images.asp" target="_blank">http://www.w3schools.com/html/html_images.asp</a>. I am using an image as a hyperlink. You will find the link to try that near the bottom of the page.
 
 {% highlight html %}
-<code> <a href"destination address">
+<a href"destination address">
 <img src="image address" alt="text to show when moused over" />
-</a></code>
+</a>
 {% endhighlight %}
 
 First we need get the address for the image. This was the File URL that I said to take note of earlier. Lets enter that and see how that looks linking to the _Easy as 1 2 PC Facebook Page_.
 
-<code>&lt;a href"http://www.facebook.com/easyas12pc" target="_blank"&gt;&lt;img src="http://easyguideto.files.wordpress.com/2013/01/facebook40.png" alt="Easy as 1 2 PC Facebook Page"&gt;</code>
+{% highlight html %}
+<a href"http://www.facebook.com/easyas12pc" target="_blank"><img src="http://easyguideto.files.wordpress.com/2013/01/facebook40.png" alt="Easy as 1 2 PC Facebook Page">
+{% endhighlight %}
 
-<code>target="_blank"</code> Opens the link in a new tab or window depending on which browser is used to access the site.
+{% highlight html %}
+target="_blank"
+{% endhighlight %}
+Opens the link in a new tab or window depending on which browser is used to access the site.
 
 Take care not to make any changes unless it is between quotation marks otherwise it will show as text on the page instead of this:
 <div align="center"><a href="http://www.facebook.com/easyas12pc"> <img src="http://easyguideto.files.wordpress.com/2013/01/facebook40.png" alt="Easy as 1 2 PC Facebook Page" /></a></div>
 We do the same for each of the social links until we end up with something that resembles :
 
-<code>&lt;a href="http://www.youtube.com/easyas12pc" target="_blank"&gt;&lt;img src="http://easyguideto.files.wordpress.com/2013/01/youtube40.png" alt="Easy as 1 2 PC on Youtube" /&gt;&lt;/a&gt;</code>
+{% highlight html %}
+<a href="http://www.youtube.com/easyas12pc" target="_blank"><img src="http://easyguideto.files.wordpress.com/2013/01/youtube40.png" alt="Easy as 1 2 PC on Youtube" /></a>
+{% endhighlight %}
 
-<code>&lt;a href="http://www.facebook.com/easyas12pc" target="_blank"&gt;&lt;img src="http://easyguideto.files.wordpress.com/2013/01/facebook40.png" alt="Easy as 1 2 PC on Facebook" /&gt;&lt;/a&gt;</code><code></code>
+{% highlight html %}
+<a href="http://www.facebook.com/easyas12pc" target="_blank">
+<img src="http://easyguideto.files.wordpress.com/2013/01/facebook40.png" alt="Easy as 1 2 PC on Facebook"/></a>
+{% endhighlight %}
 
-<code>&lt;a href="http://plus.google.com/116907261384504584106" target="_blank" rel="publisher"&gt;&lt;img src="http://easyguideto.files.wordpress.com/2013/01/plus40.png" alt="Easy as 1 2 PC on Google+" /&gt;&lt;/a&gt;</code><code></code>
+{% highlight html %}
+<a href="http://plus.google.com/116907261384504584106" target="_blank" rel="publisher"><img src="http://easyguideto.files.wordpress.com/2013/01/plus40.png" alt="Easy as 1 2 PC on Google+" /></a>
+{% endhighlight %}
 
-<code>&lt;a href="http://www.twitter.com/easyas12pc" target="_blank"&gt;&lt;img src="http://easyguideto.files.wordpress.com/2013/01/twitter40.png" alt="Easy as 1 2 PC on Twitter" /&gt;&lt;/a&gt;</code><code></code>
+{% highlight html %}
+<a href="http://www.twitter.com/easyas12pc" target="_blank">
+<img src="http://easyguideto.files.wordpress.com/2013/01/twitter40.png" alt="Easy as 1 2 PC on Twitter" /></a>
+{% endhighlight %}
 
-<code>&lt;a href="http://http://easyguideto.wordpress.com/feed/" target="_blank"&gt;&lt;img src="http://easyguideto.files.wordpress.com/2013/01/feed40.png" alt="Easy as 1 2 PC on RSS" /&gt;&lt;/a&gt;</code><code></code>
+{% highlight html %}
+<a href="http://http://easyguideto.wordpress.com/feed/" target="_blank>
+<img src="http://easyguideto.files.wordpress.com/2013/01/feed40.png" alt="Easy as 1 2 PC on RSS" /></a>
+{% endhighlight %}
 
 The eagle-eyed among you may have noticed I added a rel="publisher" to the Google+ link. This is very useful for Google search ranking but also to authoritatively link your site to your Google+ brand page. I also use Rel=author when posting and link to my personal Google + Profile. If you have a Google + account I highly recommend adding these two little tags. To check that they are working you just enter your site address here :<a title="Google Rich Snippets tool" href="http://www.google.com/webmasters/tools/richsnippets" target="_blank">http://www.google.com/webmasters/tools/richsnippets</a>.
 

@@ -71,7 +71,7 @@ Thank you for reading
 
 Billy
 
-Author: William Winslow
-Find me on:
-<a href="http://plus.google.com/u/0/101182395189202128527?rel=author">Google</a>
+Author: William Winslow<br>
+Find me on:<br>
+<a href="http://plus.google.com/u/0/101182395189202128527?rel=author">Google</a><br>
 Find Easy as 1 2 PC on <a href="https://facebook.com/easyas12pc">Facebook</a>

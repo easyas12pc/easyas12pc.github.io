@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Easy as 1 2 PC</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://easyas12pc.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://easyas12pc.github.io" />
+<updated>2015-04-06T19:56:51+01:00</updated>
+<id>http://easyas12pc.github.io/</id>
+<author>
+  <name>Easy as 1 2 PC</name>
+  <uri>http://easyas12pc.github.io/</uri>
+  <email>info@easyas12pc.co.uk</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Easy as 1 2 PC guide Creating Your Own Site on WordPress.com]]></title>
+  <link rel="alternate" type="text/html" href="http://easyas12pc.github.io/articles/Creating-your-own-site-on-wordpress-dot-com/" />
+  <id>http://easyas12pc.github.io/articles/Creating-your-own-site-on-wordpress-dot-com</id>
+  <updated>2013-01-25T00:00:00-00:00</updated>
+  <published>2013-01-25T00:00:00+00:00</published>
+  
+  <author>
+    <name>Billy Winslow</name>
+    <uri>http://easyas12pc.github.io</uri>
+    <email>info@easyas12pc.co.uk</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Many people would like to create their own website. Some struggle to get started for various reasons. In this series of guides I aim to make this easier. There are many choices on the internet of where to create a free website. From WordPress and Weebly to Google sites, Wix and many more. Over the coming weeks I plan on creating these guides to help you get your site up and running. Nothing fancy, just enough to say that is a website and I did that.&lt;/p&gt;
+
+&lt;p&gt;I’ll show you how to add a page and if appropriate a blog on the same site, how to add a navigation menu and a contact form to allow visitors to leave you messages and how to add some buttons to link to your pages on social networking sites. There will be some stuff that can be done within the &lt;a title=&quot;WYSIWYG&quot; href=&quot;http://en.wikipedia.org/wiki/WYSIWYG&quot; target=&quot;_blank&quot; rel=&quot;wikipedia&quot;&gt;WYSIWYG&lt;/a&gt; (&lt;em&gt;What You See Is What You Get&lt;/em&gt;) system of each website creation service and some that has to be coded in HTML (&lt;a title=&quot;HTML&quot; href=&quot;http://en.wikipedia.org/wiki/HTML&quot; target=&quot;_blank&quot; rel=&quot;wikipedia&quot;&gt;HyperText Markup Language&lt;/a&gt;). Where I have to use html I’ll show you the code and a link to more info on what I used at &lt;a title=&quot;W3 Schools&quot; href=&quot;http://www.w3schools.com/&quot; target=&quot;_blank&quot;&gt;W3 Schools&lt;/a&gt;. This is a great resource if you need to find out how to do something in HTML or even &lt;a title=&quot;Cascading Style Sheets&quot; href=&quot;http://en.wikipedia.org/wiki/CSS&quot; target=&quot;_blank&quot;&gt;CSS &lt;/a&gt;(Cascading Style Sheets).&lt;/p&gt;
+
+&lt;p&gt;I’m starting with Wordpress.com as that is what I am currently using. I’ll pop a question over at the Facebook page for the next edition of the guide with a few choices of where you would like me to make a guide on next. &lt;/p&gt;
+
+&lt;p&gt;Grab a cup of your beverage of choice and we shall begin.&lt;/p&gt;
+
+&lt;p&gt;First we have to head on over to &lt;a title=&quot;WordPress.com&quot; href=&quot;http://wordpress.com&quot; target=&quot;_blank&quot;&gt;WordPress.com&lt;/a&gt; to begin the registration process. Click the &lt;strong&gt;get started&lt;/strong&gt; button to begin.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;WordPress Account creation&quot; src=&quot;/images/WP-Guide/guide-to-wp-wp-account-creation-page1.jpg&quot; alt=&quot;Enter your details to begin the WordPress.com Account creation process. Click Sign up on the Basic option to create a free site.&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Enter your details to begin the WordPress.com Account creation process. Click &lt;strong&gt;Sign up&lt;/strong&gt; on the &lt;strong&gt;Basic&lt;/strong&gt; option to create a free site.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-post-confirmation.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;Post confirmation page 1&quot; src=&quot;/images/WP-Guide/guide-to-wp-post-confirmation.jpg&quot; alt=&quot;If you would like to find some interesting blogs to follow you can select them from this page.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you would like to find some interesting blogs to follow you can select them from this page.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-post-confirmation2.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;Follow page&quot; src=&quot;/images/WP-Guide/guide-to-wp-post-confirmation2.jpg&quot; alt=&quot;This page allows you to find your friends from other social network sites and follow any blogs they may have at WordPress.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This page allows you to find your friends from other social network sites and follow any blogs they may have at WordPress.com&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-post-confirmation3.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;Post confirmation page 1&quot; src=&quot;/images/WP-Guide/guide-to-wp-post-confirmation3.jpg&quot; alt=&quot;This page allows you to set your Blog Title, Tagline and Language you will be blogging in.m&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This page allows you to set your &lt;strong&gt;Blog Title&lt;/strong&gt;, &lt;strong&gt;Tagline&lt;/strong&gt; and &lt;strong&gt;Language&lt;/strong&gt; you will be blogging in.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-choose-a-theme.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;Choose a theme&quot; src=&quot;/images/WP-Guide/guide-to-wp-post-confirmation3.jpg&quot; alt=&quot;This page allows you to choose a theme from the over 200 which are available. Some themes are not free and require a purchase to use.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This page allows you to choose a theme from the over 200 which are available. Some themes are not free and require a purchase to use.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-theme-more-info.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;Choose a theme&quot; src=&quot;/images/WP-Guide/guide-to-wp-theme-more-info.jpg&quot; alt=&quot;As you can see I have chosen to go with the Skeptical theme and you can see further information on the theme on this page.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As you can see I have chosen to go with the Skeptical theme and you can see further information on the theme on this page.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-first-post.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;First Post&quot; src=&quot;/images/WP-Guide/guide-to-wp-first-post.jpg&quot; alt=&quot;Next we have to create our first post. I selected Text for the first post.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Next we have to create our first post. I selected Text for the first post.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-firstposttext.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;First Post part 2&quot; src=&quot;/images/WP-Guide/guide-to-wp-firstposttext.jpg&quot; alt=&quot;Just enter your post title and whatever post text you wish to enter.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Just enter your post title and whatever post text you wish to enter.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-stats.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;WordPress Stats&quot; src=&quot;/images/WP-Guide/guide-to-wp-stats.jpg&quot; alt=&quot;This page allows you to see various stats related to your site. Including how many unique visitors, how many pages they viewed, how they arrived at your site and any links they used to leave your site.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This page allows you to see various stats related to your site. Including how many unique visitors, how many pages they viewed, how they arrived at your site and any links they used to leave your site.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-my-blogs.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;My WordPress Blogs&quot; src=&quot;/images/WP-Guide/guide-to-wp-my-blogs.jpg&quot; alt=&quot;This page allows you to see all the sites that you have on WordPress.com and particular pages of each admin section..&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This page allows you to see all the sites that you have on WordPress.com and particular pages of each admin section.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-freshly-pressed.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;Freshly Pressed&quot; src=&quot;/images/WP-Guide/guide-to-wp-freshly-pressed.jpg&quot; alt=&quot;Along the top blue bar we have a series of options. The first is the Reader page. This allows you read any blogs you have followed. Clicking Freshly Pressed brings up the Reader too however it shows the blogs that have been highlighted by the WordPress staff and placed in the *Freshly Pressed section.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Along the top blue bar we have a series of options. The first is the &lt;strong&gt;Reader&lt;/strong&gt; page. This allows you read any blogs you have followed. Clicking &lt;strong&gt;Freshly Pressed&lt;/strong&gt; brings up the &lt;strong&gt;Reader&lt;/strong&gt; too however it shows the blogs that have been highlighted by the WordPress staff and placed in the &lt;strong&gt;Freshly Pressed&lt;/strong&gt; section.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pull-right&quot;&gt;&lt;img src=&quot;http://easyas12pc.github.io/images/WP-Guide/guide-to-wp-profiledropdown-menu.jpg&quot; alt=&quot;WordPress Profile Menu&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clicking on your portrait on the right hand side of the blue bar drops down the profile menu.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-settings-account.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;WordPress Profile Menu&quot; src=&quot;/images/WP-Guide/guide-to-wp-settings-account.jpg&quot; alt=&quot;The account setting page allows you to make changes to your account.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The account setting page allows you to make changes to your account.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-settings-account.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;WordPress Settings&quot; src=&quot;/images/WP-Guide/guide-to-wp-settings-account.jpg&quot; alt=&quot;The account setting page allows you to make changes to your account.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The account setting page allows you to make changes to your account.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Lets go back to &lt;strong&gt;My blogs&lt;/strong&gt; and click on &lt;strong&gt;Blog Admin&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-site-dashboard.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;Site Dashboard&quot; src=&quot;/images/WP-Guide/guide-to-wp-site-dashboard.jpg&quot; alt=&quot;Site Dashboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Site Dashboard&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see there are lots of items down the menu on the left, each of which may have various options underneath that. Lets start first of all by deciding whether this is a blog or a website. By default WordPress.com expects the front page of your site to be a blog roll page. This page shows either the full text of each post or excerpts of each post. You can if you wish change this to allow your site to have both a Home Page as well as a Blog page.&lt;/p&gt;
+
+&lt;p&gt;To do this we need to first of all make a new page. To do so click on *Pages* then *Add New*.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-dashboard-add-new-page.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-dashboard-add-new-page.jpg&quot; alt=&quot;Dashboard add new page&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Use &lt;strong&gt;Home page&lt;/strong&gt; as the title, as we will need to refer to it later. Enter the text you wish to be displayed when a visitor lands on your site. This could be a simple welcome message or a little about what you do. You can use the buttons in the bar to format your text and add media (pictures, music etc), polls and forms which I will cover later. On the right hand side you can see the Page Attributes box. This allows you to set the Parent Page and the template. The choices for the template will depend on what are made available in your chosen theme. If you have any images in your page you can choose one to be the featured image. Once finished you can choose to save as a draft to edit again later, preview which allows you to see what it will look like once published.&lt;/p&gt;
+
+&lt;p&gt;You can also change the posts visibility, who can see the page or post. Public is everybody, Password Protected means only those whom you have given the password to and Private is only those with access to the admin pages for your site can see this page. For your Home Page I recommend public so everyone can see it. Once you are happy click &lt;strong&gt;Publish&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are also going to need a page for blog posts to be shown on. So click &lt;strong&gt;Add New Page&lt;/strong&gt; again.
+This time just enter the page name I&#39;m going to call this one Blog and then just publish the page. We do not enter anything other than the title.&lt;/p&gt;
+
+&lt;p&gt;Now we have to let WordPress know that we&#39;re going to have a Home page and a Blog page. To do so Click on &lt;strong&gt;Appearance&lt;/strong&gt; then &lt;strong&gt;Themes&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/WP-Guide/guide-to-wp-dashboard-appearance-themes.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;Dashboard Appearance Themes&quot; src=&quot;/images/WP-Guide/guide-to-wp-dashboard-appearance-themes.jpg&quot; alt=&quot;Dashboard Appearance Themes&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;This will open the &lt;strong&gt;Theme customisation&lt;/strong&gt; page. From the panel on the right, click on &lt;strong&gt;Static Front Page&lt;/strong&gt; under &lt;strong&gt;Layout&lt;/strong&gt;. Then &lt;strong&gt;Front Page Displays A Static Page&lt;/strong&gt;. From the drop down menus select your &lt;em&gt;home page&lt;/em&gt; name and &lt;em&gt;blog page&lt;/em&gt; name under &lt;em&gt;Front Page&lt;/em&gt; and &lt;em&gt;Posts Page&lt;/em&gt; respectively as shown below.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/WP-Guide/guide-to-wp-theme-customisation.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-theme-customisation.jpg&quot; alt=&quot;Theme Customisation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Click &lt;strong&gt;Save and Publish&lt;/strong&gt; to save your changes. Pop open the bar again and click on &lt;strong&gt;Close&lt;/strong&gt; to return to the Manage Themes page.
+Click on &lt;strong&gt;Theme options&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/WP-Guide/guide-to-wp-dashboard-appearance-theme-options.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-dashboard-appearance-theme-options.jpg&quot; alt=&quot;Dashboard Appearance Theme Options&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On this page you can choose various options depending on which theme you have chosen. As you can see in the image above the Skeptical theme allows us to choose the colour scheme and whether to show the RSS link in the Header. I&#39;m going to choose the red theme and not to show the RSS link as I am going to add that in my social links widget which I will get to next. Remember to click &lt;strong&gt;Save Options&lt;/strong&gt; to save your changes.&lt;/p&gt;
+
+&lt;p&gt;Next click on &lt;strong&gt;Widgets&lt;/strong&gt; under &lt;strong&gt;Appearance&lt;/strong&gt; and we will set up our widgets that appear on the right and bottom of each page or post when using the default template.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/WP-Guide/guide-to-wp-dashboard-appearance-widgets.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-dashboard-appearance-widgets.jpg&quot; alt=&quot;Dashboard Appearance Widgets&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see there are many options to choose from here. I&#39;m not going to go into detail on each of them but I will highlight a few. The bulk of the window is taken up with the available widgets, each widget has a short description under it. To use a widget simply drag it to an open widget area on the right. Opening a widget area is as simple as clicking the triangle on the right of the widget title. Lets start by adding the Search widget to the Sidebar Widget Area by dragging it over. Notice that the box for the Sidebar widget got a little longer when we added the widget. We can add as many widgets as we want to each area it adjusts accordingly. Clicking the triangle to the right of the widget title allows us to make changes to the widget. In the case of the Search widget that allows us to change the title. I&#39;m going to leave it blank but you can enter a name if you want.&lt;/p&gt;
+
+&lt;p&gt;I&#39;m going to need some images for the Social links so lets upload them now. We need to go to &lt;strong&gt;Media&lt;/strong&gt; and &lt;strong&gt;Add New&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/WP-Guide/guide-to-wp-dashboard-new-media.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-dashboard-new-media.jpg&quot; alt=&quot;Dashboard Add New Media&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;From this screen we can either click &lt;strong&gt;Select Files&lt;/strong&gt; to open a standard File Open Browse windows in your Operating System or you can find the files you want and drag them to the dotted box and drop. Once you chosen the files to upload a screen similar to the one below will be shown.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/WP-Guide//guide-to-wp-dashboard-new-media-uploading.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-dashboard-new-media-uploading.jpg&quot; alt=&quot;Dashboard New media Uploading&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;As you can see I have chosen 5 files to be used as my icons for the Social Media Links widget. Once uploaded click on &lt;strong&gt;Edit&lt;/strong&gt; to view the attachment details page.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/WP-Guide/guide-to-wp-dashboard-media-edit-info.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-dashboard-media-edit-info.jpg&quot; alt=&quot;Dashboard Media edit info&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On this page you can see various details of the media item. In this case it is the icon for Facebook. Enter any details you want and take note of the File URL as shown on the right, we&#39;re going to need that later. Once your finished entering details click the &lt;strong&gt;Update button&lt;/strong&gt; to save your changes.&lt;p&gt;
+
+&lt;p&gt;Next we&#39;re going to set up the Social links widget. For this we are going to use a text widget which allows us to enter html etc. Note WordPress.com does not allow various objects to be embedded including flash objects. For more info see this page from the support site.&lt;/p&gt;
+&lt;a title=&quot;http://en.support.wordpress.com/code/&quot; href=&quot;http://en.support.wordpress.com/code/&quot; target=&quot;_blank&quot;&gt;http://en.support.wordpress.com/code/&lt;/a&gt;
+
+&lt;p&gt;Drag a text widget to the Sidebar widget area and drop it under the search widget. It should open on its own but if it doesn&#39;t click the little triangle. For each Social Networking page we&#39;re going to use a picture as a button which when clicked opens a new tab or window and goes to the appropriate link. The info on how to set this up can be found here&lt;/p&gt;
+&lt;a title=&quot;http://www.w3schools.com/html/html_images.asp&quot; href=&quot;http://www.w3schools.com/html/html_images.asp&quot; target=&quot;_blank&quot;&gt;http://www.w3schools.com/html/html_images.asp&lt;/a&gt;. 
+&lt;p&gt;I am using an image as a hyperlink. You will find the link to try that near the bottom of the page.&lt;/p&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&amp;lt;a href&amp;quot;destination address&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;image address&amp;quot;
+alt=&amp;quot;text to show when moused over&amp;quot; /&amp;gt;
+&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;br /&gt;
+&lt;p&gt;First we need get the address for the image. This was the File URL that I said to take note of earlier. Lets enter that and see how that looks linking to the _Easy as 1 2 PC Facebook Page_.&lt;p&gt;
+&lt;br /&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&amp;lt;a href&amp;quot;http://www.facebook.com/easyas12pc&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://easyguideto.files.wordpress.com/2013/01/facebook40.png&amp;quot;
+alt=&amp;quot;Easy as 1 2 PC Facebook Page&amp;quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;br /&gt;
+&lt;p&gt;In order to open the link in a new tab or window, depending on which browser is used to access the site, we use the following addition to the a href .&lt;/p&gt;
+&lt;br /&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;target=&amp;quot;_blank&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+
+&lt;p&gt;Take care not to make any changes unless it is between quotation marks otherwise it will show as text on the page instead of this:&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.facebook.com/easyas12pc&quot;&gt; &lt;img src=&quot;http://easyguideto.files.wordpress.com/2013/01/facebook40.png&quot; alt=&quot;Easy as 1 2 PC Facebook Page&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;We do the same for each of the social links until we end up with something that resembles :&lt;/p&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&amp;lt;a href=&amp;quot;http://www.youtube.com/easyas12pc&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://easyguideto.files.wordpress.com/2013/01/youtube40.png&amp;quot;
+alt=&amp;quot;Easy as 1 2 PC on Youtube&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;br /&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&amp;lt;a href=&amp;quot;http://www.facebook.com/easyas12pc&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://easyguideto.files.wordpress.com/2013/01/facebook40.png&amp;quot;
+alt=&amp;quot;Easy as 1 2 PC on Facebook&amp;quot;/&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;br /&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&amp;lt;a href=&amp;quot;http://plus.google.com/116907261384504584106&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;publisher&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://easyguideto.files.wordpress.com/2013/01/plus40.png&amp;quot;
+alt=&amp;quot;Easy as 1 2 PC on Google+&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;br /&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&amp;lt;a href=&amp;quot;http://www.twitter.com/easyas12pc&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;http://easyguideto.files.wordpress.com/2013/01/twitter40.png&amp;quot;
+alt=&amp;quot;Easy as 1 2 PC on Twitter&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;br /&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&amp;lt;a href=&amp;quot;http://http://easyguideto.wordpress.com/feed/&amp;quot; target=&amp;quot;_blank&amp;gt;
+&amp;lt;img src=&amp;quot;http://easyguideto.files.wordpress.com/2013/01/feed40.png&amp;quot;
+alt=&amp;quot;Easy as 1 2 PC on RSS&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The eagle-eyed among you may have noticed I added a rel=&quot;publisher&quot; to the Google+ link. This is very useful for Google search ranking but also to authoritatively link your site to your Google+ brand page. I also use Rel=author when posting and link to my personal Google + Profile. If you have a Google + account I highly recommend adding these two little tags. To check that they are working you just enter your site address here :&lt;p&gt;
+&lt;a title=&quot;Google Rich Snippets tool&quot; href=&quot;http://www.google.com/webmasters/tools/richsnippets&quot; target=&quot;_blank&quot;&gt;http://www.google.com/webmasters/tools/richsnippets&lt;/a&gt;.
+
+&lt;p&gt;Once viewed on the live page that should all look something like:&lt;/p&gt;
+
+&lt;a href=&quot;http://www.youtube.com/easyas12pc&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://easyguideto.files.wordpress.com/2013/01/youtube40.png&quot; alt=&quot;Easy as 1 2 PC on Youtube&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.facebook.com/easyas12pc&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://easyguideto.files.wordpress.com/2013/01/facebook40.png&quot; alt=&quot;Easy as 1 2 PC on Facebook&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://plus.google.com/116907261384504584106&quot; target=&quot;_blank&quot; rel=&quot;publisher&quot;&gt;&lt;img src=&quot;http://easyguideto.files.wordpress.com/2013/01/plus40.png&quot; alt=&quot;Easy as 1 2 PC on Google+&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.twitter.com/easyas12pc&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://easyguideto.files.wordpress.com/2013/01/twitter40.png&quot; alt=&quot;Easy as 1 2 PC on Twitter&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://http://easyguideto.wordpress.com/feed/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://easyguideto.files.wordpress.com/2013/01/feed40.png&quot; alt=&quot;Easy as 1 2 PC on RSS&quot; /&gt;&lt;/a&gt;
+
+&lt;p&gt;We continue adding widgets including the Meta widget which allows us to log in to the admin section of the site.&lt;p&gt;
+
+&lt;p&gt;Let&#39;s make a page where visitors can contact us without them needing our email address. Click on &lt;strong&gt;Pages Add New&lt;/strong&gt; again.&lt;p&gt;
+
+&lt;p&gt;We will call this page &lt;strong&gt;Contact Us&lt;/strong&gt; and then click on the third button below the &lt;strong&gt;Page Title&lt;/strong&gt; to &lt;strong&gt;Add a Custom Form&lt;/strong&gt;.&lt;p&gt;
+
+&lt;a href=&quot;http://easyas12pc.files.wordpress.com/2013/01/guide-to-wp-add-custom-form.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-add-custom-form.jpg&quot; alt=&quot;Add Custom Form&quot; /&gt;&lt;/a&gt;
+
+&lt;p&gt;This pop up window allows us to create a form. Moving your mouse over each field highlights it and brings up the options to Move or Edit the field. Clicking on &lt;strong&gt;Move&lt;/strong&gt; allows you to drag and drop the field where you would like it placed. Clicking &lt;strong&gt;Edit&lt;/strong&gt; allows you to edit each field. With option to change the label and also the field type. For more info on all the options available follow this link&lt;/p&gt;
+
+&lt;a title=&quot;Contact Form further info&quot; href=&quot;http://en.support.wordpress.com/contact-form/&quot; target=&quot;_blank&quot;&gt;http://en.support.wordpress.com/contact-form/&lt;/a&gt;.
+
+&lt;p&gt;Arrange the fields as you like I&#39;m going to leave it as is. Lets click on &lt;strong&gt;Email Notifications&lt;/strong&gt; at the top. This allows you to enter an alternate email address to send the responses to and to change the subject line. There is no need to do this if you want the emails to go to your email address as registered with WordPress.com. If you do make changes remember to save them by clicking the blue &lt;strong&gt;Save&lt;/strong&gt; and go back to form builder button. Once you have finished building your form click &lt;strong&gt;Add this form to my post&lt;/strong&gt; to save the form. You will now see the short codes for the form. If you wish to enter text to go between fields carefully enter it between brackets e.g.&quot;] text here [&quot; If you enter text between these bracket [ ] you will cause errors in your form. Again when you have finished making any changes hit the *publish button*.&lt;p&gt;
+
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-contactus.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-contactus.jpg&quot; alt=&quot;Finished Contact Form as seen on page.&quot; /&gt;&lt;/a&gt;
+
+&lt;p&gt;Next we will add a simple navigation menu to allow visitors to get around our site. To do this we click on &lt;strong&gt;Appearance and Menus&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-dashboard-appearance-menus.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-dashboard-appearance-menus.jpg&quot; alt=&quot;Dashboard Appearance Menus&quot; /&gt;&lt;/a&gt;
+
+&lt;p&gt;Click &lt;strong&gt;Create Menu&lt;/strong&gt; to begin creating our first menu. Different themes support different numbers of menus. Some allow more than one, whereas others including the Skeptical theme supports only one menu.&lt;/p&gt;
+
+&lt;p&gt;The first thing to do is give the menu a name I chose Navigation. Once you do that a new check box will appear with the option to _Automatically add new top-level pages_. Select this if you want all top-level pages to be automatically added. I prefer to leave this unselected to allow me create sub-menus and hide pages from the navigation menu. However you can check it if you want all pages to appear in your menu.&lt;/p&gt;
+
+&lt;p&gt;We add the &lt;em&gt;Home page&lt;/em&gt; and the &lt;em&gt;Blog page&lt;/em&gt; and the &lt;em&gt;About page&lt;/em&gt; to the menu by checking the boxes and clicking &lt;strong&gt;Add to Menu&lt;/strong&gt;. Notice that you can also add Categories to the menu. We haven&#39;t created any Categories yet but they will become available to add to the menu once we have.&lt;/p&gt;
+
+&lt;p&gt;You can also add custom Links to the menu by entering the URL and label. Once you have items in the menu you can rearrange them by dragging and dropping just like the widgets. If you indent one item below another then it will become a sub item of the item above. Under the Theme Locations box you can choose the Primary Navigation (menu) to use for your site. Select your menu from the drop down.&lt;/p&gt;
+
+&lt;p&gt;Our menu now looks like this.&lt;/p&gt;
+
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-navigation-menu.jpg&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;/images/WP-Guide/guide-to-wp-navigation-menu.jpg&quot; alt=&quot;Navigation menu&quot; /&gt;&lt;/a&gt;
+
+&lt;p&gt;Don&#39;t forget to click &lt;strong&gt;Save Menu&lt;/strong&gt; to save any changes you have made.&lt;/p&gt;
+
+&lt;p&gt;Lets add a custom header to our site. Click on &lt;strong&gt;Appearance&lt;/strong&gt; then Header. The Skeptical theme prefers a header image that is 940 x 200 pixels. In true Blue Peter style, here is one I made earlier :D&lt;/p&gt;
+
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp.jpg&quot; alt=&quot;Easy guide to logo&quot; /&gt;&lt;/a&gt;
+
+&lt;p&gt;All that&#39;s left to do now is edit the About Page to let visitors know more about the site. This is done by clicking &lt;strong&gt;Edit&lt;/strong&gt; under About in the Pages section.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WordPress.com&lt;/em&gt; allows you to connect your blog to social network sites and automatically share posts with fans and friends. To do so click &lt;strong&gt;Settings&lt;/strong&gt; then &lt;strong&gt;Sharing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;a href=&quot;/images/WP-Guide/guide-to-wp-publicize.jpg&quot;&gt;&lt;img src=&quot;/images/WP-Guide/guide-to-wp-publicize.jpg&quot; alt=&quot;Publicize&quot; /&gt;&lt;/a&gt;
+
+&lt;p&gt;Here we have the Publicize settings page. Entering the details for each connection will allow WordPress.com to share your posts on these social network sites.&lt;/p&gt;
+
+&lt;p&gt;To see the finished site as used in the guide head over to &lt;a title=&quot;http://easyguideto.wordpress.com&quot; href=&quot;http://easyguideto.wordpress.com&quot; target=&quot;_blank&quot;&gt;http://easyguideto.wordpress.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading this guide which turned out longer than I expected but hopefully I gave you enough information to get started with a &lt;em&gt;Wordpress.com&lt;/em&gt; site.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions feel free to ask below or on the Facebook or Google+ pages.&lt;/p&gt;
+
+Please spread the word, share on Facebook, Twitter etc.
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.github.io/articles/Creating-your-own-site-on-wordpress-dot-com/&quot;&gt;Easy as 1 2 PC guide Creating Your Own Site on WordPress.com&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.github.io&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on January 25, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Rambling about . . . CES 2013]]></title>
+  <link rel="alternate" type="text/html" href="http://easyas12pc.github.io/blog/rambling-about-ces2013/" />
+  <id>http://easyas12pc.github.io/blog/rambling-about-ces2013</id>
+  <published>2013-01-14T00:00:00+00:00</published>
+  <updated>2013-01-14T00:00:00+00:00</updated>
+  <author>
+    <name>Easy as 1 2 PC</name>
+    <uri>http://easyas12pc.github.io</uri>
+    <email>info@easyas12pc.co.uk</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Hi and welcome to another rambling post.
+This past week has been mostly been dominated by one of the tech industries biggest events of the year. The Consumer Entertainment Show (CES) in Las Vegas. After the break I’ll share with you what I thought were the highlights of the show. If only I could have been there myself.&lt;/p&gt;
+
+&lt;p&gt;I’m doing these in no particular order so here goes.&lt;/p&gt;
+
+&lt;p&gt;First we have the Jamstik from Zivix.&lt;/p&gt;
+
+&lt;figure class=&quot;pull-right&quot;&gt;
+	&lt;a href=&quot;http://www.engadget.com/2013/01/11/jamstik-portable-midi-guitar-lets-you-play-and-learn-on-the-ipad/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.blogcdn.com/www.engadget.com/media/2013/01/jamstik-2013-01-09-8.jpg&quot; alt=&quot;Jamstik. Image courtesy of Engadget.&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Jamstik. Image courtesy of Engadget.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This nifty little gadget lets you play guitar on your PC or iPad. Wirelessly. That’s right this cut down MIDI guitar gadget connects to your iPad and lets you strum away to your heart’s content on real strings. Its shorter neck is ideal for popping into your purse or man bag and having a little shredding session on the train. More details here Engadget:-jamstik portable midi guitar lets you play and learn on the ipad.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;figure class=&quot;pull-left&quot;&gt;
+	&lt;a href=&quot;http://shield.nvidia.com&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://drh.img.digitalriver.com/DRHM/Storefront/Site/nvidia/pb/images/dojo_2/img/gallery/project_shield_v2b.png&quot; alt=&quot;Project Shield. Image courtesy of Nvidia.&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Project Shield. Image courtesy of Nvidia.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Next up we have quite possibly one of this years biggest announcements in gaming. A handheld game console from Nvidia, the company that makes those big powerful graphics cards for gaming amongst other things. They announced at CES Project Shield. Shown right.  A handheld android game console built on Nvidia’s Tegra 4 processing power. With a 1280 x 720 multi-touch display, built in speakers, wi-fi and Android Jellybean. But wait that’s not all. It will also allow you to play your Windows games on the shields screen if you have an Nvidia graphics card in your computer, allowing the Sheild to act as a wireless controller and display. It’s also compatible with Valve’s Big Picture mode for Steam. More info: Nvidia Project Shield.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;pull-right&quot;&gt;
+	&lt;a href=&quot;http://www.steampowered.com/steamworks/thebigpicture.php&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.valvesoftware.com/images/slide_bigpicture.jpg&quot; alt=&quot;Steam Big Picture. Image courtesy of Valve.&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Steam Big Picture&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Speaking of Valve they also made a rather big deal about their Big Picture mode at CES showing off various Home Theatre PC’s hooked up to some HD TV’s at their booth. No official update yet on whether Valve are releasing their own game console/pc However many manufacturers including Alienware and Xi3 were on display running a Linux version of Steam showing off the big picture mode. More info on Valves Big Picture mode: Steam Big Picture.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;figure class=&quot;pull-left&quot;&gt;
+	&lt;a href=&quot;http://www.corning.com/displaytechnologies/en/products/flexible.aspx&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.corning.com/uploadedImages/Corporate/ww/Assets/Images/Ultra_Slim_Flexible_Just_Glass_Bend_812X540.jpg&quot; alt=&quot;Steam Big Picture. Image courtesy of Valve.&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Corning Willow Glasss. Image courtesy of Corning.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Corning Willow Glasss. Image courtesy of Corning.
+Would you be interested in a flexible phone? How about one with a curved display? Corning the people who make the glass that covers the screens on such phones and tablets as Samsung’s Galaxy S2 ,S3 and Tab 10.1 , HTC’s One X and One S, Asus Pad Slider, Transformer and Transformer Prime and many more devices by other manufacturers. Has announced a new flexible glass. At only the thickness of an average business card Corning’s Willow Glass looks to be the next big thing in Smartphone and tablet screens. More info Corning’s Willow Glass.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;figure class=&quot;pull-right&quot;&gt;
+	&lt;a href=&quot;http://www.corning.com/displaytechnologies/en/products/flexible.aspx&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://asset2.cbsistatic.com/cnwk.1d/i/tim/2013/01/09/DSC01771-001_610x458.jpg&quot; alt=&quot;iPotty by  CTA Digital. Image courtesy of CNET.&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;iPotty by  CTA Digital. Image courtesy of CNET.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I know I already shared this on both Facebook and Google+ last week but I got to include it here. It’s quite possibly the strangest product at CES. It has definitely been turning heads according to Amanda Kooser who wrote the article over at CNET. I really hope that CTA Digital manage to get this one from the CES show floor to a UK shop floor near you/me. I know a toddler who would really like his own seat/potty to play with a tablet on. Definitely an upgrade from the comic book or cartoons which I’m sure I was potty trained with :). There is no specific app from CTA Digital but apparently there are a few potty training apps already in the store. If someone with an iPad could check and confirm. More information: iPotty by  CTA Digital&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;figure class=&quot;pull-left&quot;&gt;
+	&lt;a href=&quot;http://www.nuance.com/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.nuance.co.uk/assets/images/logo-trans.png&quot; alt=&quot;Nuance logo&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Nuance.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Nuance the heavy hitter in the speech recognition market with their Dragon line announced that as well as the Dragon Mobile Assistant app that was launched last year for Android smartphones running Ice Cream Sandwich (4.0) they are working on a project codenamed Wintermute. A virtual assistant that much like Siri and Google Now, will allow you to do the same things. While not being tied to a particular platform, rather keeping your user profile in the cloud. This will allow you to use any device with the app/software installed. Obviously still in the development stage this does look to be something to keep an eye on. The question is. Can it handle a Glaswegian accent? More information Wintermute from Nuance.&lt;/p&gt;
+
+&lt;p&gt;Well that’s a fair few things that have caught my eye this week. There was many more but I think this has been my highlights. If you’re looking for more CES 2013 coverage just Google CES 2013 there are many sites covering it and many lucky, lucky people attending.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading and I’ll catch you on either Facebook or Google+&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.github.io/blog/rambling-about-ces2013/&quot;&gt;Rambling about . . . CES 2013&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.github.io&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on January 14, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Easy as 1 2 PC guide to buying a New PC]]></title>
+  <link rel="alternate" type="text/html" href="http://easyas12pc.github.io/articles/guide-to-buying-a-new-pc/" />
+  <id>http://easyas12pc.github.io/articles/guide-to-buying-a-new-pc</id>
+  <updated>2012-08-14T00:00:00-00:00</updated>
+  <published>2012-08-14T00:00:00+01:00</published>
+  
+  <author>
+    <name>Easy as 1 2 PC</name>
+    <uri>http://easyas12pc.github.io</uri>
+    <email>info@easyas12pc.co.uk</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Buying a computer can be a daunting process. There is so many questions to be answered. Windows or Macintosh? Should I get AMD or Intel? Should I get the 2GB or 4GB model. Should I get the one with the flashy case or the one that’s plainer? So many questions which the sales people are quick to exploit and without ever answering many of the important ones. For many people they have already answered the first question do I get a Window’s PC or a Macintosh PC. This question is usually answered by preference, the software you want to run or your budget.&lt;/p&gt;
+
+&lt;p&gt;Macintosh PC’s and laptops generally cost more for pretty much the same hardware. But regardless of whether you choose to go with Windows or Macintosh there are still a number of questions that need to be addressed. This guide will deal with as many as possible and if there are any questions regarding anything I have missed I will update this guide to reflect those questions.&lt;/p&gt;
+
+&lt;h2&gt;Desktop or Laptop&lt;/h2&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;/images/new-pc/desktop-or-laptop300.jpg&quot;&gt;&lt;img title=&quot;Desktop or laptop?&quot; src=&quot;/images/new-pc/desktop-or-laptop300.jpg&quot; alt=&quot;Desktop or laptop?&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is perhaps the greatest question but many people will immediately know the answer to this. It is also the simplest to answer. If you plan on being mobile and using the computer in many places then purchase a laptop version. If you plan to be mostly stationary then purchase a desktop or tower computer. Following on from that question are the other more difficult and thought provoking questions.&lt;/p&gt;
+
+&lt;h3&gt;The CPU&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/new-pc/cpu_1_t150.jpg&quot;&gt;&lt;img title=&quot;cpu&quot; src=&quot;/images/new-pc/cpu_1_t150.jpg&quot; alt=&quot;CPU Image&quot; width=&quot;150&quot; height=&quot;146&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Which Central Processing Unit, otherwise known as the Processor, to get is in my opinion this is the single most important question after which OS to go with. This is the most important piece of hardware in computer. It is still one of deciding factors whether a program will run or not despite recent advances in processor technology, software has advanced as quickly or in some cases quicker than the hardware. Processors can be purchased with between 1 and currently 8 cores. How many cores you need will depend on both your budget and the software you intend to run.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;As a minimum I would recommend a dual core CPU although in the near future many more programs will be looking for more than two cores. So if you intend to keep your computer as long as possible without any major upgrades before purchasing another a quad core CPU within your budget would be a prudent investment.&lt;/p&gt;
+&lt;p&gt;Whether to go with Intel or AMD is a difficult question to answer as it has no clear answer. Both produce equally powerful, efficient and comparable processors.  Which one you go with will probably depend on other factors and has minimum impact on the everyday running of the computer.&lt;/p&gt;
+
+&lt;p&gt;My recommendation is to spend a large chunk of your budget on the processor as this is the most difficult part to upgrade and in the case of the laptop is more than likely going to force you to purchase a new laptop. The processor is like a car on a motorway or highway for the Americans once you turn the computer on it runs at a constant idle speed even when you are not doing anything. The processor idles along at this speed until you need it to do something. This is the equivalent of having to overtake another car on the motorway and to do so both the car and the processor has to work harder or faster for a time before returning to its idle speed. The more powerful processor or car is able to do this quicker and return to the idle state thereby saving petrol or battery/electricity. In a laptop it is much more important that the processor returns this idle state to preserve the battery which allows it to run for longer without needing charged.&lt;/p&gt;
+
+&lt;h3&gt;The Motherboard&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/new-pc/motherboard-with-cpu-and-fan150.jpg&quot;&gt;&lt;img title=&quot;motherboard with cpu and fan&quot; src=&quot;/images/new-pc/motherboard-with-cpu-and-fan150.jpg&quot; alt=&quot;motherboard with cpu and fan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The next question that is asked if you are building your own computer is which Motherboard to get. This question depends upon&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;and at the same time limits your choice of processor. When choosing the Motherboard it is best to choose the one that will give you the longest possible time before needing replaced. If possible choose the one that matches the latest socket architecture as determined by the latest CPU’s from either Intel or AMD depending on which companies Processor you have chosen to purchase.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;After this you should check how much and what configurations of RAM are available. Is it the latest Ram architecture (currently DDR3) and does it have more than one bank of slots? Many micro ATX Motherboards come with only one bank of memory slots which limits the amount of RAM you can have.  It is much better to have more than 1 bank of memory slots as this allows you to upgrade the memory much more.&lt;/p&gt;
+
+&lt;p&gt;After this is questions relating to the chipset this will answer a number of other questions such as the type of hard drive connection or USB etc. My only recommendation here is to try and get the latest chipset released by AMD or Intel. In most cases the connectors for the Hard drive and USB etc will be the same on most motherboard the only difference will be the number of connections available. Some motherboard might have 8 or more USB connections and another might have 6 or more SATA connectors. All motherboards currently have the same PCI Express connection for graphics but unless you plan on building a computer primarily to play games then multiple PCI Express slots are not required.&lt;/p&gt;
+
+&lt;h3&gt;RAM&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/new-pc/memory150.jpg&quot;&gt;&lt;img title=&quot;Memory&quot; src=&quot;/images/new-pc/memory150.jpg&quot; alt=&quot;Memory&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Random Access Memory or just memory is important to the overall running of the computer but in terms of cost it is one of the least expensive and least difficult parts of a computer to upgrade regardless of whether it is a desktop/tower style computer or a laptop. Even if you purchase the minimum amount of RAM available when purchasing a prebuilt computer from the likes of Dell, HP, Asus etc the cost to upgrade it after purchase is usually less than choosing the next RAM option when customising your computer.  I have another &lt;a href=&quot;http://easyas12pc.co.uk/2012/06/13/ram-the-main-cause-of-system-slowdowns/&quot;&gt;article &lt;/a&gt;which goes into more detail on RAM and why it’s important to have and why you should have as much as possible but when purchasing the computer the amount of RAM should not be a major concern as it can be easily and more cheaply upgraded.&lt;/p&gt;
+
+&lt;h3&gt;The Hard Disk&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/descilla/3376210849/in/set-72157615770023150&quot;&gt;&lt;img title=&quot;Image courtesy of Simon Wüllhorst on Flickr&quot; src=&quot;http://easyas12pc.files.wordpress.com/2013/03/simon-wc3bcllhorst-on-flickr150.jpg&quot; alt=&quot;Image courtesy of Simon Wüllhorst on Flickr&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;When purchasing a new computer the hard disk is also not a major concern.  Unless you have a specific need for a large hard drive I recommend purchasing one of at least 120GB to hold your operating system and programs. I recommend the purchase of an external or secondary Hard Disk in almost all circumstances. Keeping your main Hard Disk limited in size makes it very easy to keep this disk running as quickly as possible. Also keeping your own files on an external or secondary disk makes it easier to replace the primary hard disk in case of failure. Recent advances in Hard drive technology have also made available supremely fast Solid State Disks (SSDs) which although currently available in lesser capacities than normal Hard disks the improvement in speed more than makes up for their limited capacity.  I would recommend where your budget allows you purchase a new computer with an SSD and use an external or secondary hard disk for data storage. Again I recommend a size of at least 120GB to provide enough capacity for the Operating System and your main programs.&lt;/p&gt;
+
+&lt;h3&gt;The Graphics Card&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/new-pc/gpu1.png&quot;&gt;&lt;img title=&quot;High End GPU and Onboard Graphics Chip&quot; src=&quot;/images/new-pc/gpu1.png?w=150&quot; alt=&quot;High End GPU and Onboard Graphics Chip&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;The graphics card or often called the GPU these days is depending on your requirements could be equally as important as the CPU or as important as a hard drive. In so much as long as you have one then there is little importance to be placed on it. Most laptops and a lot of computers these days come with a graphics chip either embedded in the Motherboard or the processor in the case of recent Processors from both Intel and AMD. In almost all cases I would recommend purchasing a computer with a dedicated Graphics card from either AMD or Nvidia. On board or embedded graphics chips in almost all cases are underpowered for much of the tasks required of a modern computer. Low powered laptops and netbooks are the only place an embedded Graphics chip makes sense as these devices are not designed to do all the tasks required of a modern laptop or desktop. Most of the embedded Graphics chips will struggle with HD video unless paired with a high powered processor. Purchasing or choosing a relatively inexpensive dedicated Graphics card will provide a significant improvement over the embedded Graphics chips.
+If you intend to play games, even casual games I recommend purchasing or choosing a slightly more powerful and more expensive dedicated GPU.
+When building a machine which will be dedicated to games it is advisable to purchase a GPU that is much more powerful and will likely cost on par with the CPU.&lt;/p&gt;
+
+&lt;h3&gt;Laptop Screen size&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/new-pc/laptop-hi150.jpg&quot;&gt;&lt;img title=&quot;laptop&quot; src=&quot;/images/new-pc/laptop-hi150.jpg&quot; alt=&quot;laptop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;The size of the laptop screen determines not only the maximum resolution that can be displayed but also the size of your keyboard.  Smaller screens coming with less than a full sized keyboard whereas 17” and above tend to at least come with all the keys including a number pad. Other than that there is not much to be said on a laptop screen. Some have high resolutions but mostly the same sized screens will have the same resolution. Currently Apple had adopted a higher resolution screen on their laptops but I expect the other manufacturers to start producing laptops with similar screens in the near future.&lt;/p&gt;
+
+&lt;h3&gt;Peripherals&lt;/h3&gt;
+
+&lt;p&gt;When purchasing peripherals including the keyboard, mouse, monitor and speakers, it is often much cheaper to purchase these separate from the main computer.  Sometimes you may get a deal when buying them together but shop around and check you might find it a lot cheaper elsewhere. All of these parts are not required to be purchased with the rest of the computer and can be easily replaced when required. In fact a good set of peripherals can possibly last longer than the computer itself.&lt;/p&gt;
+
+&lt;p&gt;So in summary regardless of whether you decide to buy a Laptop or a Desktop your important choices will be the Operating System, laptop or Desktop, CPU and GPU if you plan on playing games. All other aspects of a computer can be chosen or upgraded later. All the answers will come down to either personal taste or your budget. A laptop for games s going to cost  you a pretty penny whereas a computer for surfing the internet is going to cost you a lot less.&lt;/p&gt;
+
+&lt;p&gt;Hopefully this guide has helped you if you are thinking of purchasing a new computer. If you have any questions or comments as usual I encourage you to get in touch using the comments section below or the Facebook page.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading&lt;/p&gt;
+
+&lt;p&gt;Billy&lt;/p&gt;
+
+&lt;p&gt;Author: William Winslow&lt;br /&gt;
+Find me on &lt;a href=&quot;http://plus.google.com/u/0/101182395189202128527?rel=author&quot;&gt;Google&lt;/a&gt;&lt;br /&gt;
+Find Easy as 1 2 PC on &lt;a href=&quot;https://facebook.com/easyas12pc&quot;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.github.io/articles/guide-to-buying-a-new-pc/&quot;&gt;Easy as 1 2 PC guide to buying a New PC&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.github.io&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on August 14, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[RAM - The main cause of system slowdowns.]]></title>
+  <link rel="alternate" type="text/html" href="http://easyas12pc.github.io/articles/ram/" />
+  <id>http://easyas12pc.github.io/articles/ram</id>
+  <published>2012-06-13T00:00:00+01:00</published>
+  <updated>2012-06-13T00:00:00+01:00</updated>
+  <author>
+    <name>Easy as 1 2 PC</name>
+    <uri>http://easyas12pc.github.io</uri>
+    <email>info@easyas12pc.co.uk</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;One of the main services I used to provide was a computer maintenance session which is used to resolve many of the issues which cause system slowdowns. However on many an occasion, despite my best efforts, there is only a minor improvement in the systems responsiveness. This is caused by the systems not having a sufficient amount of RAM. Many systems which were bought several years ago were sold with an amount of RAM that although adequate for when the system was purchased, is now not enough. Every piece of software running on the computer uses a certain amount of system resources. The Operating system itself requires a minimum amount of RAM to perform its functions. The problem often arises though that system updates and other programs place an additional burden on the system resources and over time these requirements grow and unless the system is upgraded then the system can begin to feel unresponsive.&lt;/p&gt;
+
+&lt;p&gt;Let’s use the motor car as an example. The engine is the computers Processor, the petrol tank is the systems RAM , the driver is the Operating system and the boot is other programs. When you first get the car it is being used to drive to and from work and the fuel tank etc is big enough to carry out this task without issue. If you then give someone else a lift to work the car has to expend more fuel to carry out this additional task. This then requires you to fill the petrol tank a little more often. In computer terms this is done by paging parts of memory to the hard disk which takes a lot longer than reading it from memory. If you then add more people and luggage the engine has to then work harder and therefore use more fuel. This then means that you have to fill up more often. The same is true for the computer the more programs you ask it to run the more often it has to swap pieces of memory to the hard disk. A solution to frequent fill ups in the car example is to make the fuel tank larger. The same can be done on the computer by increasing the amount of RAM that you have installed in the computer.&lt;/p&gt;
+
+&lt;p&gt;Upgrading the RAM is a fairly straight forward process and can be done by most users. If you do not feel confident in replacing or upgrading the RAM then you local computer shop or more technical friend or family is likely to do this for you for a small fee or free depending on who you ask.&lt;/p&gt;
+
+&lt;p&gt;The first step though is finding out if you can upgrade your RAM. The easiest way I have found is to us a tool by memory manufacturer and seller Crucial. The tool can be found at &lt;a href=&quot;http://www.crucial.com/uk/systemscanner/.&quot;&gt;http://www.crucial.com/uk/systemscanner/.&lt;/a&gt; If you are using IE it will run in the browser or you can download the application if you prefer to use another browser.&lt;/p&gt;
+
+&lt;p&gt;Once ran it will show you a page similar to this .&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;/images/ram/crucial-scan-ss.jpg&quot;&gt;&lt;img src=&quot;/images/ram/crucial-scan-ss.jpg&quot; alt=&quot;Crucial scanner results page&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Crucial System scanner Results page&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This page displays information on your system specification including the type of RAM you have installed on the left and a list of compatible upgrades with prices, based on Crucial parts. At the bottom right it also shows some Solid State Drives which you can ignore unless you would like to boost system performance even more by replacing or installing an SSD as your Operating System Drive, but that is a topic for another article if required.&lt;/p&gt;
+
+&lt;p&gt;In my example you see that I have 4 memory slots which can take up to 2GB per slot. I have chosen to do exactly that and I have 8GB of RAM installed on my system. I also run a 64-bit version of Windows to be able to use this amount of RAM. Most users will not need this amount of RAM at present however as with all things that will change as time goes on.&lt;/p&gt;
+
+&lt;p&gt;A 32-bit version of Windows or any operating system will only see a maximum of approximately 4GB and be able to utilise 3GB or 3.5GB depending on the Operating System.&lt;/p&gt;
+
+&lt;p&gt;A 64-bit operating system can utilize much more and in the case of Windows 7 Professional, Enterprise and Ultimate this can be up to 192GB. Windows 7 Home Basic and Starter can utilize up to 8GB and Windows 7 home Premium can utilize up to 16GB.&lt;/p&gt;
+
+&lt;p&gt;Installing or upgrading the RAM is similar to changing a light bulb or a fuse in a plug. There is only one way to install the RAM as in almost all instances the RAM slot has a slot with a raised section in a unique position and only RAM of the correct type will fit if orientated the correct way. If you turn the RAM around the matching notch on the ram will be in the wrong position to cover the raised section in the memory socket.&lt;/p&gt;
+
+&lt;p&gt;This is an example of desktop memory modules notice the notch is in a different position on each.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/1/1b/Desktop_DDR_Memory_Comparison.svg&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/1/1b/Desktop_DDR_Memory_Comparison.svg&quot; alt=&quot;Desktop memory examples courtesy of Wikipedia&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Desktop memory examples courtesy of Wikipedia&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Align the memory module with the slot and press firmly but gently down until the retaining clips pop into place.&lt;/p&gt;
+
+&lt;p&gt;For a laptop the memory modules are similar but smaller.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Laptop_SODIMM_DDR_Memory_Comparison_V2.svg/500px-Laptop_SODIMM_DDR_Memory_Comparison_V2.svg.png&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Laptop_SODIMM_DDR_Memory_Comparison_V2.svg/500px-Laptop_SODIMM_DDR_Memory_Comparison_V2.svg.png&quot; alt=&quot;Laptop memory examples courtesy of Wikipedia&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Laptop memory examples courtesy of Wikipedia&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And here is its matching socket.&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:DDR_SO-DIMM_slot_PNr%C2%B00341.jpg#/media/File:DDR_SO-DIMM_slot_PNr%C2%B00341.jpg&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DDR_SO-DIMM_slot_PNr%C2%B00341.jpg/1200px-DDR_SO-DIMM_slot_PNr%C2%B00341.jpg&quot; alt=&quot;DDR SO-DIMM slot PNr°0341.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&quot;&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:DDR_SO-DIMM_slot_PNr%C2%B00341.jpg#/media/File:DDR_SO-DIMM_slot_PNr%C2%B00341.jpg&quot;&gt;DDR SO-DIMM slot PNr°0341&lt;/a&gt;&quot; by &lt;a href=&quot;//commons.wikimedia.org/wiki/User:D-Kuru&quot; title=&quot;User:D-Kuru&quot;&gt;D-Kuru&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;. Licensed under &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/at/deed.en&quot; title=&quot;Creative Commons Attribution-Share Alike 3.0 at&quot;&gt;CC BY-SA 3.0 at&lt;/a&gt; via &lt;a href=&quot;//commons.wikimedia.org/wiki/&quot;&gt;Wikimedia Commons&lt;/a&gt;.&lt;/figure&gt;
+
+&lt;p&gt;To install the laptop memory module again gently align the module in the socket at an angle and then push the top of the module towards the laptop until the retaining clips click into place.&lt;/p&gt;
+
+&lt;p&gt;Always purchase upgrades from a reliable source I recommend Crucial and Ebuyer.com as examples but there are many reliable online and offline retailers. Prices do vary depending on where you go and an online retailer is unable to install the upgrade for you unlike a local PC shop. In many instances if you purchase the RAM from a local retailer they are more likely to install it for free. The process takes less than a few minutes.&lt;/p&gt;
+
+&lt;p&gt;My recommendation’s for the amount of RAM for each version of Window are :&lt;/p&gt;
+
+&lt;p&gt;Windows XP - 2GB
+Windows Vista and Windows 7 - 4GB
+Windows 8 - 4GB or 8GB preferably &lt;/p&gt;
+
+&lt;p&gt;If you can afford to upgrade and have a 64-bit Operating System then More is always better however once you get to about 8GB, which is what I have. Unless you have a specific reason for installing more RAM then I would recommend remaining at 8GB. Between 4GB and 8GB the difference is not going to be noticed much by you unless you regularly run heavy-duty programs such as Adobe Photoshop or a particularly demanding game. At which point your system will notice even if you don’t.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.github.io/articles/ram/&quot;&gt;RAM - The main cause of system slowdowns.&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.github.io&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on June 13, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Keeping Your Computer Cool in the Heat.]]></title>
+  <link rel="alternate" type="text/html" href="http://easyas12pc.github.io/articles/cool-in-the-heat/" />
+  <id>http://easyas12pc.github.io/articles/cool-in-the-heat</id>
+  <published>2012-05-26T00:00:00+01:00</published>
+  <updated>2012-05-26T00:00:00+01:00</updated>
+  <author>
+    <name>Easy as 1 2 PC</name>
+    <uri>http://easyas12pc.github.io</uri>
+    <email>info@easyas12pc.co.uk</email>
+  </author>
+  <content type="html">
+    &lt;h4&gt;How do you keep a computer cool?&lt;/h4&gt;
+
+&lt;p&gt;Is an often asked question and was asked of me by Jenny of &lt;a href=&quot;http://www.facebook.com/FutureArt.CanvasPrints&quot;&gt;Future Art Canvas Prints&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Keeping your computer cool on a particularly warm day is important if you are going to be using it a lot.  It is important to keep the computer cool for many reasons. The main one being that if your computer gets too hot it will simply turn itself off to protect itself and you will lose any unsaved data.  It can also shorten the lifespan of your computer and possibly damage the parts if it remains too hot for too long.&lt;/p&gt;
+
+&lt;h4&gt;So how do I keep my computer cool?&lt;/h4&gt;
+
+&lt;p&gt;There are many things that can be done to cool down the computer and the first recommendation by any technician is to not have your computer sitting on the floor. Computers need good airflow and most of the air is drawn in the front as is expelled out the back. Depending on the type of case that you have air may be drawn in directly in the front using specially designed grills or it may be drawn in through a hole(s) at the bottom of the front panel. There may also be small holes in the side panels too to draw in additional air but most is drawn in through the front. It is best to keep at least 3 to four inches clear on the back and the sides, if you have ventilation holes there. This will allow the hot air to flow away from the computer and not get drawn back in. If your computer is near a wall and the wall is warmer where the air is expelled from the case then move your computer a little further away. If you computer sits in a desk ensure that there is adequate ventilation at the rear and front when in use. Open the door and ensure that there is somewhere for the air to go out of the desk at the rear.&lt;/p&gt;
+
+&lt;figure class=&quot;pull-right&quot;&gt;
+	&lt;a href=&quot;/images/computer-cool/both-with-door3.jpg&quot;&gt;&lt;img src=&quot;/images/computer-cool/both-with-door3.jpg&quot; alt=&quot;Both with Door&quot; width=&quot;150&quot; height=&quot;200&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Both with Door&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the image to the right you can see examples of both these case designs. On the left you have a case that draws air in through the bottom of the front panel and on the right you have my specially designed gamer case which has grills and mounting brackets for two 120mm fans at the front hiding behind the door. As you can see I have raised both cases off the ground. In the image you can barely see part of one of the old CD ROM drives I have re-purposed to act as big feet for both of the cases. You can use anything you want so long as it is flat and allows air to enter the bottom of the front panel without obstruction.&lt;/p&gt;
+
+&lt;figure class=&quot;pull-left&quot;&gt;
+	&lt;a href=&quot;http://easyas12pc.github.io/images/computer-cool/server-bottom.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.github.io/images/computer-cool/server-bottom.jpg&quot; alt=&quot;Bottom View&quot; width=&quot;150&quot; height=&quot;200&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Bottom View&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This image shows the bottom of my server case and where the air is drawn in through a gap in the bottom of the front panel.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://easyas12pc.github.io/images/computer-cool/desktop-with-fan-grill-door-opened.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.github.io/images/computer-cool/desktop-with-fan-grill-door-opened.jpg&quot; alt=&quot;Desktop with fan grill open&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://easyas12pc.github.io/images/computer-cool/desktop-without-door.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.github.io/images/computer-cool/desktop-without-door.jpg&quot; alt=&quot;Desktop with fan grills closed&quot; /&gt;&lt;/a&gt;
+	Desktop with fan grill open and closed.
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you can see the front panel of my desktop system with the grills (left) and the dust screen (right) which are directly in front of a 120mm fan. There is another Fan placement position behind the hard drive caddy which is behind the grill and dust screen at the bottom but this is not required as the power supply for this case is positioned in the bottom section with the hard drive caddy. This allows to power supply to draw air in the front grill over the hard drives and expel the air straight out the back. The upper section houses the motherboard and the DVD ROM drive. The top section has one intake and two exhaust fans.  I run the front intake fan faster than the exhaust fans to have the air coming in going out at roughly the same rate.&lt;/p&gt;
+
+&lt;p&gt;Fans and Dust
+Inside your computer there are normally at least two fans. One on top of the processor and one in the power supply. The Power supply fan is usually the fan that has the responsibility of expelling the hot air from within your case.  These fans can get clogged with dust and pet hair etc that gets sucked in the front of your computer case.  Computer cases are like magnets for pet hair and dust. Laptops are even more susceptible to dust and pet hair due to the small vent and fan.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://easyas12pc.github.io/images/computer-cool/cat-dust-inspection.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.github.io/images/computer-cool/cat-dust-inspection.jpg&quot; alt=&quot;Cat inspecting inside of computer case for dust&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Ahh so that&#39;s where all the fur I cast disappears to.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In this image you can see that the cat is inspecting the case for dust and found a flattened fur ball it thought it had lost earlier this month in the metal fins of the heatsink and on the edges of the fans amongst other places. I jest about the fur ball but this is what the inside your case can look like if it is in a dusty environment or of you have pets.  This can be removed if you are technically minded enough with either a computer vacuum or a can of compressed air. Shut your computer down first and perhaps take it outside on a dry day before doing this to ensure the dust is not sucked back inside later, if using compressed air.  If you are not so technically minded then I advise taking it to someone else, perhaps your local computer store, for internal maintenance. Unfortunately it is not something I can do over the internet.
+I recommend getting your case internally maintained or cleaned at least once or twice a year possibly more if you have pets. Listen carefully to the noise from your computer you will notice the audible change in the sound that comes from the case and can usually hear a fan failure before it dies completely. Standard fans found in most computer cases can usually be replaced fairly inexpensively.&lt;/p&gt;
+
+&lt;p&gt;Another way of keeping it cool is to move it to cooler part of the room or a cooler room altogether. As stated earlier your computer is likely to be too hot if it is uncomfortably warm for you therefore cooling down the room or moving to a cooler room is always a good idea.&lt;/p&gt;
+
+&lt;p&gt;One thing to avoid doing is removing the side panel from your computer case. This may seem like a good idea however computer rely on airflow over various parts of the system for proper cooling and taking the side panel off disrupts this greatly.&lt;/p&gt;
+
+&lt;p&gt;Some fans only spin or spin faster when the components they are attached to are above a certain temperature and this is normal. This is to save power cooling a part that does not require much, if any, cooling at this time.&lt;/p&gt;
+
+&lt;p&gt;Other than what I have mentioned above I can’t think of any more If you have any ideas feel free to leave them in the comments section below.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.github.io/articles/cool-in-the-heat/&quot;&gt;Keeping Your Computer Cool in the Heat.&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.github.io&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on May 26, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Broadband Speeds and Why You Do Not Get What You Pay For]]></title>
+  <link rel="alternate" type="text/html" href="http://easyas12pc.github.io/articles/broadband-speeds/" />
+  <id>http://easyas12pc.github.io/articles/broadband-speeds</id>
+  <published>2012-05-21T00:00:00+01:00</published>
+  <updated>2012-05-21T00:00:00+01:00</updated>
+  <author>
+    <name>Easy as 1 2 PC</name>
+    <uri>http://easyas12pc.github.io</uri>
+    <email>info@easyas12pc.co.uk</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;This article was inspired by Donna of &lt;a href=&quot;http://www.facebook.com/donnascraftsupplies&quot;&gt;Donna’s Crafts and Supplies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As many of you may know most if not all ISP’s (Internet Service Provider) advertise their products with phrases including “up to” ,”the fastest speed available on your line” “superfast connection” and many more. However what they all fail to tell you is what your line can actually handle.&lt;/p&gt;
+
+&lt;p&gt;There are many reasons why you may be unable to achieve the advertised speeds. These include things which you may be unable to change:&lt;/p&gt;
+
+&lt;p&gt;The distance your home is from your British Telecom exchange (ADSL only).
+The speed of the website you are getting the information from.
+How many other people are using your exchange.
+The length and quality of the phone wiring in your home and whether you use extensions.
+Some things you may be able to change include:&lt;/p&gt;
+
+&lt;p&gt;The quality of the micro filters and using then on each extension that you have a phone or the modem or router plugged into.
+Reduce the length of cable from your main Telephone socket to where you plug in your modem or router.
+The specification of your computer Both BT and Virgin Media recommend a 2 GHz processor and 1 or 2 GB or RAM depending on your Operating System for their High Speed Fibre Optic connections.
+One thing to bear in mind is that although the modem or router may connect at a given speed for example in the image below you can see that I am connected to the internet at 13,421kbps (kilo bits per second) or approx 13Mbps. However the actual speed which I can download a file can vary.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;/images/broadband/connection-info.jpg&quot;&gt;&lt;img src=&quot;/images/broadband/connection-info.jpg&quot; alt=&quot;connection info&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Broadband connection info&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the two images below you can see the different results that I get from different servers using url: http://www.speedtest.net to test my connection.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;/images/broadband/speedtest-lancaster1.jpg&quot; alt=&quot;Speed test from a server in Lancaster&quot; /&gt;
+	&lt;img src=&quot;/images/broadband/speedtest-aberdeen1.jpg&quot; alt=&quot;Speed test from a server in Aberdeen&quot; /&gt;
+	&lt;figcaption&gt;Speedtest results from two servers&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This lowered figure for the download speed is caused by overhead and other factors affecting the connection as I download and upload a file to the respective server.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ping&lt;/em&gt; is shown in each image and is the length of time that it takes for a request to be sent to the server and the acknowledgement to come back.&lt;/p&gt;
+
+&lt;p&gt;The speed at which I can download a file is mostly dependant on the server I am downloading from. If I were to download a large file from Microsoft then I am likely to get that file as quickly as my router or modem can manage as shown in the image below. If I were to get a file from other sites I am not guaranteed to get such a fast speed.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;/images/broadband/iso-downlod-ss1.jpg&quot;&gt;&lt;img src=&quot;/images/broadband/iso-downlod-ss1.jpg&quot; alt=&quot;Download from Microsoft&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Download from Microsoft showing download speed of 1,326KB/s.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Notice how my maximum download speed is approx one tenth of my connection speed. This appears to be the rough formula and is the one I use in my head to guess the download speed of a connection.&lt;/p&gt;
+
+&lt;p&gt;As I stated earlier to improve this you could do many things from replacing your micro filters and extension cables to rewiring your house or moving house altogether. However much of the causes of a slow connection are rarely fixable unless it is a problem with you ISP.&lt;/p&gt;
+
+&lt;p&gt;When you call to complain it is best to follow their instruction as unfortunately to actually get to speak to the people who can resolve your issue the first line support staff do have to tick of various boxes by asking standard questions. Even if you have already carried out the tasks be patient but insistent. Do not let them give you the brush off. If you are not receiving close to your advertised speed always speak with your ISP until you are happy with the outcome.&lt;/p&gt;
+
+&lt;p&gt;I have a contract with Be broadband for up to 24Mbit however due to the distance from the exchange, the old wiring which I think was installed around the time that it was still the General Post Office Telecommunications not British Telecom. I joke but the wiring is very old. I also am unable to plug my router directly into the main BT socket and therefore have to sacrifice some speed (just over 10Mbit) to all these factors however I am still above half of the advertised speed and faster than the connection I have had with both BT and Sky over the same wires.&lt;/p&gt;
+
+&lt;p&gt;If you do not achieve half of what you are paying for then my recommendation is to call up your ISP until they resolve the issue in a manner you are satisfied with.&lt;/p&gt;
+
+&lt;p&gt;If you are having issues with your connection that your ISP assures you is not their fault get in touch I may be able to help get you back online.&lt;/p&gt;
+
+&lt;p&gt;Some useful links:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.speedtester.bt.com/&quot;&gt;http://www.speedtester.bt.com/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.speedtest.net&quot;&gt;http://www.speedtest.net&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.virginmedia.com/testmyspeed/manual.php&quot;&gt;http://www.virginmedia.com/testmyspeed/manual.php&lt;/a&gt; (Virgin Media’s recommended method to test your connection)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Leave a Reply&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.github.io/articles/broadband-speeds/&quot;&gt;Broadband Speeds and Why You Do Not Get What You Pay For&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.github.io&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on May 21, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>

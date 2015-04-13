@@ -4,13 +4,131 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://easyas12pc.co.uk/feed.xml" />
 <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk" />
-<updated>2015-04-07T21:09:22+01:00</updated>
+<updated>2015-04-13T22:14:46+01:00</updated>
 <id>http://easyas12pc.co.uk/</id>
 <author>
   <name>Easy as 1 2 PC</name>
   <uri>http://easyas12pc.co.uk/</uri>
   <email>info@easyas12pc.co.uk</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Easy as 1 2 PC Guide to Backups]]></title>
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/guide-to-backups/" />
+  <id>http://easyas12pc.co.uk/articles/guide-to-backups</id>
+  <published>2015-04-13T00:00:00+01:00</published>
+  <updated>2015-04-13T00:00:00+01:00</updated>
+  <author>
+    <name>Easy as 1 2 PC</name>
+    <uri>http://easyas12pc.co.uk</uri>
+    <email>info@easyas12pc.co.uk</email>
+  </author>
+  <content type="html">
+    &lt;h2&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Backups are one of those things that we know we really should do but rarely actually do until we really need to or it’s already too late. Like hoovering under the couch, clearing out the email inbox. Just like these other things, creating and keeping a backup of the important files on our computer is not all that difficult to do. Rather it is the time required to filter through the various files that we collect during the time that we use the computer and deleting the junk that we have collected but no longer need, that puts most people off creating backups.&lt;/p&gt;
+
+&lt;h2&gt;Reasons why&lt;/h2&gt;
+&lt;p&gt;We should do a regular backup to ensure that we have copies of any important files that we may need later. Having a copy of important files on a different hard drive, whether internal or preferably external, can make the difference between having an easy method of recovering those files or having to take the computer or hard disk to the local computer shop to carry out difficult and often expensive recovery processes.&lt;/p&gt;
+
+&lt;h2&gt;How? and what should I back up?&lt;/h2&gt;
+&lt;p&gt;There are numerous pieces of software on the internet both commercial and free that will allow you to setup regular or occasional, automatic backups. These software can do selected files and folders or your entire hard disk. Whatever you think that you may require can be achieved. I recommend at the very least keeping a copy of your documents folder. Any media files, music and video, should already be stored in a different location on your hard drive rather than in your documents folder as this can cause your documents folder to become very large. &lt;/p&gt;
+
+&lt;h2&gt;Copy and Paste Method&lt;/h2&gt;
+&lt;p&gt;The simplest method of keeping a backup is to copy the files you wish to keep from one folder or drive to another. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you have an external drive connect that to your computer.&lt;/li&gt;
+  &lt;li&gt;Locate the files and folders that you wish to copy.&lt;/li&gt;
+  &lt;li&gt;Highlight the selected folders and using either the mouse, &lt;em&gt;Right click&lt;/em&gt; and choose &lt;em&gt;Copy&lt;/em&gt;, or press &lt;em&gt;CTRL+C&lt;/em&gt;. &lt;/li&gt;
+  &lt;li&gt;Locate the location you would like to store the previously copied files and folders and &lt;em&gt;Right Click&lt;/em&gt; and choose &lt;em&gt;Paste&lt;/em&gt; or press &lt;em&gt;CTRL+V&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Windows Built in Backup&lt;/h2&gt;
+&lt;p&gt;Windows Vista and Windows 7 have a backup facility within the Operating System itself. This allows users of these Operating systems to setup an automatic backup or to run Manual backups depending on the version of Windows that you may have.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Windows Vista
+Open Backup and Restore Center by:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Click the Start button.&lt;/li&gt;
+      &lt;li&gt;Click Control Panel.&lt;/li&gt;
+      &lt;li&gt;Click System and Maintainance.&lt;/li&gt;
+      &lt;li&gt;Click on Backup and Restore Center.&lt;/li&gt;
+      &lt;li&gt;Click Backup.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Wizard will then take you step by step through creating a backup, either automated or manual depending on which version of Windows Vista that you have. You may be asked to provide the Administrator or provide confirmation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Windows 7 users can follow the above noted steps for Windows Vista however they do not have any restriction on which version of the Operating System has access to the automatic backup option. Following step 5 above users of Windows 7 will be presented with the option of creating a new backup, if they have not done so before, or manually crating a new backup by choosing &lt;strong&gt;Back up now&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additional support material can be found &lt;a href=&quot;http://windows.microsoft.com/en-gb/windows/back-up-files&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Macintosh built in Backup&lt;/h2&gt;
+&lt;p&gt;Macintosh users have the option of creating backups using the built in &lt;em&gt;Time machine&lt;/em&gt; software. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It keeps a copy of all your files, and remembers how your system looked on any given day so you can revisit your Mac as it appeared in the past.” &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Apple does restrict the backup device/drive to be used to either an external hard drive or an Apple Aiport Time capsule or OS X Serve on the same network. TIme machine keeps hourly backups for the past 24 hours, daily backups for the past month and weekly backups. The oldest backups are deleted when the drive in use becomes full.&lt;/p&gt;
+
+&lt;p&gt;To set time machine:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Connect the external drive to your Mac.&lt;/li&gt;
+  &lt;li&gt;Time machine will as when you connect a blank drive whether it should be used for backin up.&lt;/li&gt;
+  &lt;li&gt;Click use as Backup Disk to select this drive as your backup destination.&lt;/li&gt;
+  &lt;li&gt;You may also choose to encrypt backups for additional security. This will prevent others from accessing your backup without a password.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Additional support material can be found &lt;a href=&quot;https://support.apple.com/us-en/HT201250&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Alternative Backup Software&lt;/h2&gt;
+&lt;p&gt;There are so many backup and recovery application available on the internet these days it can be very difficult to know which ones to trust. I recommend looking very carefully before making a choice on which one to use I provide the examples below merely as a suggestion rather than an endorsement of any of the particular pieces of software. Bear in mind that there are also cloud solutions available to from Microsoft, Google, Dropbox and Apple among others. Cloud storage works across many platforms (Windows/Mac/Android/etc) and can range from free options to paid for cloud storage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Software&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Price&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Windows/Mac&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.bombich.com/&quot;&gt;Carbon Copy Cloner&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;£27.50&lt;/td&gt;
+      &lt;td&gt;Mac&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://agilebits.com/knox&quot;&gt;Knox for Mac&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;£23.84&lt;/td&gt;
+      &lt;td&gt;Mac&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.paragon-software.com/home/brh/&quot;&gt;Paragon Backup and Recovery 15 Home&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;£29.95&lt;/td&gt;
+      &lt;td&gt;Windows&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.oo-software.com/en/diskimage-backup-your-data&quot;&gt;O&amp;amp;O Disk image 9&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;£32.99&lt;/td&gt;
+      &lt;td&gt;Windows&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/guide-to-backups/&quot;&gt;Easy as 1 2 PC Guide to Backups&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on April 13, 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
   

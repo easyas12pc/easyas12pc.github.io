@@ -4,13 +4,100 @@
 	<title type="text" xml:lang="en"></title>
 	<link type="application/atom+xml" href="http://easyas12pc.co.uk/feed/" rel="self"/>
  	<link type="text" href="http://easyas12pc.co.uk" rel="alternate"/>
-	<updated>2015-04-13T22:35:08+01:00</updated>
+	<updated>2015-05-08T22:47:15+01:00</updated>
 	<id>http://easyas12pc.co.uk</id>
 	<author>
 		<name>Easy as 1 2 PC</name>
 	</author>
 	<rights>Copyright (c) 2015, Easy as 1 2 PC; all rights reserved.</rights>
 	
+	
+	<entry>
+		<title>Easy as 1 2 PC Guide to Upgrading Your PC.</title>
+		<link href="http://easyas12pc.co.uk/articles/guide-to-upgrades/"/>
+		<updated>2015-05-06T00:00:00+01:00</updated>
+		<id>http://easyas12pc.co.uk/articles/guide-to-upgrades</id>
+		<content type="html">&lt;h1&gt;Easy as 1 2 PC Guide to Upgrading Your PC.&lt;/h1&gt;
+
+&lt;p&gt;With Windows 10 rumoured to be released this summer, many of you may be thinking about buying a new PC. Perhaps you may even be thinking of just upgrading the computer you have. Whether it be with Windows 10 in mind or perhaps your existing computer or laptop is starting to get a little slow or sluggish. &lt;/p&gt;
+
+&lt;p&gt;For those of you interested in Windows 10 the latest update appears to be, that if you have a genuine copy of Windows 7 or 8/8.1 installed on your computer, then you will be eligible for a free upgrade to Windows 10. The System Requirements for Windows 10 are expected to be the same as for Windows 8.1. Therefore if your computer currently runs Windows 8.1 then it will be able to run Windows 10.  &lt;/p&gt;
+
+&lt;p&gt;This is the minimum that you system will need in order to run Windows 8.1 or Windows 10.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Processor:&lt;/strong&gt; 1 gigahertz (GHz) or faster with support for PAE, NX, and SSE2&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RAM:&lt;/strong&gt; 1 gigabyte (GB) (32-bit) or 2GB (64-bit)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hard disk space:&lt;/strong&gt; 16 GB (32-bit) or 20GB (64-bit)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Graphics card:&lt;/strong&gt; Microsoft DirectX 9 graphics device with WDDM driver&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are obviously the bare minimum that is required in order to get the Operating System running. Many users will want to run Games or other Processor or Graphics intensive tasks and will need specific requirements. For most users this will be enough for basic internet usage, those users looking to do more will need to go above these requirements.&lt;/p&gt;
+
+&lt;p&gt;My personal recommendation for most users without any prior knowledge of their requirements would be to suggest the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Processor:&lt;/strong&gt; 2 gigahertz (GHz) or faster Dual core processor.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RAM:&lt;/strong&gt; 8Gb.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hard disk space:&lt;/strong&gt; At least 256Gb to store windows as well as any other applications.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Graphics card:&lt;/strong&gt; Microsoft DirectX 9 graphics device with WDDM driver&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I do not change the graphic requirements as that will depend on what you need the system for. Most of the processors from both AMD and Intel come with a basic level of graphics capability that will be enough for most users. Anyone carrying out any gaming or other graphics intensive tasks should consider purchasing a dedicated graphics card from either the AMD Radeon range or Nvidia Geforce range. Both make graphics cards for every scenario and budget.&lt;/p&gt;
+
+&lt;p&gt;This guide is going to concentrate on the 3 main upgrades that may be considered when it comes time to upgrade your system. The Processor, The RAM and the Hard Disk. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;&lt;br /&gt;
+Before carrying out any work inside your computer or laptop please ensure that you take suitable antistatic precautions to prevent any damage that may be caused by electrostatic discharge. This would at the very least include the use of an Antistatic mat and wrist strap.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Processor&lt;/h2&gt;
+&lt;p class=&quot;pull-right&quot;&gt;While this may be the most important part of a computer to consider when purchasing a new computer or upgrading an existing one. This is due to the choice of processor dictating which motherboard and type RAM that will also be purchased.
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://easyas12pc.co.uk/images/cpu.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.co.uk/images/cpu.jpg&quot; alt=&quot;Processor&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Your choice of processor will come from either AMD or Intel. Both make a range of processors for most budgets. Careful consideration should be made whether to use Intel or AMD. While it is beyond the scope of this guide to advise whether you should go with one or the other, please consult your local computer shop for further advice. I will recommend as above that most users choose at a 2Ghz or faster Dual Core Processor, Quad core would be recommended if you are interested in gaming.&lt;/p&gt;
+
+&lt;p&gt;Upgrading the processor, for most users, is probably best left to you local computer shop or your personal computer expert as it will require the full system to be stripped down to install the motherboard and processor at the same time. &lt;/p&gt;
+
+&lt;h2&gt;RAM&lt;/h2&gt;
+&lt;p&gt;Ram is a fairly straight forward upgrade for most users as I have detailed previously in &lt;a href=&quot;http://easyas12pc.co.uk/ram/index.html&quot;&gt;RAM - The main cause of system slowdowns&lt;/a&gt; Most users should have at least 4Gb of RAM for Windows and their programs to run without the system feeling sluggish or slow. &lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://easyas12pc.co.uk/images/ram.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.co.uk/images/ram.jpg&quot; alt=&quot;RAM&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://easyas12pc.co.uk/images/raminstallation.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.co.uk/images/raminstallation.jpg&quot; alt=&quot;RAM Installation&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In order to upgrade the RAM simply purchase the correct type of RAM for your motherboard/laptop. This will normally be DDR2 or DDR3 RAM in DIMM for computers and SO-DIMM varieties for laptops. Depending on whether your computer or laptop has these slots fully populated or not will influence your purchasing choice. If the slots are not fully populated then can add to the existing memory that you have within your system, otherwise you will have to purchase the exact amount that you want to end up with be that 4Gb or 8Gb etc. This will normally be in what is known as a matched pair package. Having a matched pair will improve the performance of the RAM but for most users this is not a major consideration unless your intention is to game. &lt;/p&gt;
+
+&lt;p&gt;To upgrade the RAM you would first of all remove the side panel to your computer or remove the cover for the memory section of your laptop. Consult your manual for instructions on how to complete this.&lt;/p&gt;
+
+&lt;p&gt;The RAM modules can them be inserted into the DIMM or SO-DIMM slots, taking care to match the gap on the DIMM or SO-DIMM with the notch on the slot on your motherboard. Exerting a little but not excessive pressure will then click the module into place. Repeat this for each module you need to install. &lt;/p&gt;
+
+&lt;h2&gt;Hard Drive&lt;/h2&gt;
+&lt;p&gt;The Hard drive is also a fairly straight forward upgrade, assuming that you are looking to increase your overall storage capacity for data and are not looking to increase the capacity of the drive that you have Windows installed on, or are looking to replace the Windows drive with a very fast SSD. Anyone considering this should seek the advice of a computer technician.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://easyas12pc.co.uk/images/ssd.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.co.uk/images/ssd.jpg&quot; alt=&quot;Solid State Drive&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://easyas12pc.co.uk/images/hdd.jpg&quot;&gt;&lt;img src=&quot;http://easyas12pc.co.uk/images/raminstallation.jpg&quot; alt=&quot;Hard Disk Drive&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Adding an additional hard drive for data storage fairly easy to do and is just a little more involved than upgrading the RAM.&lt;/p&gt;
+
+&lt;p&gt;To install, again remove the side panel or cover from your computer or laptop. &lt;/p&gt;
+
+&lt;p&gt;For a computer find a spare hard drive bay and secure the hard drive in the bay with 4 screws. Run a power cable from your power supply to the new hard drive and then connect the appropriate data cable from the drive to the motherboard. As with the RAM these cables can only be inserted one way.&lt;/p&gt;
+
+&lt;p&gt;For a laptop please consult your manual for the appropriate location to install a second hard drive.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in upgrading your system with an SSD, which can greatly increase how fast your computer appears to be working due to not taking quite as long to retrieve information from storage, should consider using an SSD for your the drive to install Windows on. This may involve a full reinstallation of the Operating System or Cloning the hard disk. You local computer shop should be able to carry this out on your behalf.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or comments please feel free to leave them below or over on the Facebook page. Suggestions for further articles also greatly appreciated.&lt;/p&gt;
+
+</content>
+	</entry>
 	
 	<entry>
 		<title>Easy as 1 2 PC Guide to Backups</title>

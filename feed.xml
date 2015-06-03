@@ -4,13 +4,91 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://easyas12pc.co.uk/feed.xml" />
 <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk" />
-<updated>2015-05-10T12:55:06+01:00</updated>
+<updated>2015-06-03T20:39:19+01:00</updated>
 <id>http://easyas12pc.co.uk/</id>
 <author>
   <name>Easy as 1 2 PC</name>
   <uri>http://easyas12pc.co.uk/</uri>
   <email>info@easyas12pc.co.uk</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Backing up photos to cloud]]></title>
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud" />
+  <id>http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud</id>
+  <published>2015-06-03T00:00:00+01:00</published>
+  <updated>2015-06-03T00:00:00+01:00</updated>
+  <author>
+    <name>Easy as 1 2 PC</name>
+    <uri>http://easyas12pc.co.uk</uri>
+    <email>info@easyas12pc.co.uk</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Many people take photographs on their mobile devices. Probably more people use a mobile phone or heaven forbid a tablet to take photographs rather than instant camera. Who can blame them. No need to wait until you have completed the roll, taken or mailed it to your local development shop. Then you had to wait while they processed it and then sent you back or you collected your prints. All this you had to pay for even if the photos turned out to be of your finger or missing heads.  &lt;/p&gt;
+
+&lt;p&gt;These days it’s much quicker, cheaper and less likely to have you receive prints of your fingertip. With the variety of companies that will print off your digital images from local high street store using their photo kiosks to online services that allow you to take an image and place it on a mug, a mouse mat or even blow it up to fit on your wall. Getting the prints that you want is even easier, although in the case of wall prints not exactly chaper. &lt;/p&gt;
+
+&lt;p&gt;The question for today is not how do we get them printed but rather where do we store our images that we cherish so much. Photographers will have their go to places to store images that they have taken. The average Joe or Joanne who just wants to keep those photos from their birthday, stag night, office party etc. They probably don’t think too much of it. They are stored on the mobile device, but what if the unthinkable happens and your mobile device stops working, you drop it and it breaks or worse it get dropped into water. &lt;/p&gt;
+
+&lt;p&gt;All the major phone Operating System developers provide their own solution to this as do several third party apps. I will detail how to setup and enable the backing up of your cherished and not so cherished memories to each of the 3 major Mobile device platforms own solutions.&lt;/p&gt;
+
+&lt;h2 id=&quot;iphotoicloud&quot;&gt;IPhoto/iCloud&lt;/h2&gt;
+
+&lt;p&gt;Backing up photos and videos to iCloud requires first of all signing up for and enabling iCloud on the device.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Enable iCloud&lt;/li&gt;
+  &lt;li&gt;Make sure you are running the latest version of iOS.&lt;/li&gt;
+  &lt;li&gt;Turn on iCloud.
+ If not enabled during iPhone setup then:
+    &lt;ul&gt;
+      &lt;li&gt;Tap Settings.&lt;/li&gt;
+      &lt;li&gt;Select iCloud.&lt;/li&gt;
+      &lt;li&gt;Enter Apple ID.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If needed tap “Storage &amp;amp; Backup” to open its window.&lt;/li&gt;
+  &lt;li&gt;Move the slider from left to right to turn on “Backup to iCloud”.&lt;/li&gt;
+  &lt;li&gt;Tap “Back Up Now” button to upload photos from iPhone to iCloud.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;google-images&quot;&gt;Google images&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First Download the app from the play store. Photos URL.&lt;/li&gt;
+  &lt;li&gt;Turn back up &amp;amp; sync on or off&lt;/li&gt;
+  &lt;li&gt;Open the Google Photos app &lt;img src=&quot;../images/broadband/connection-info.jpg&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot; /&gt;&lt;img src=&quot;/images/broadband/connection-info.jpg&quot; alt=&quot;Smiley face&quot; /&gt;
+.&lt;/li&gt;
+  &lt;li&gt;At the top left, touch the menu icon .&lt;/li&gt;
+  &lt;li&gt;Select Settings.&lt;/li&gt;
+  &lt;li&gt;Touch Back up &amp;amp; sync.&lt;/li&gt;
+  &lt;li&gt;Switch on or off.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;*Keep in mind that changing backup settings will affect all apps that use Back up &amp;amp; sync, such as Google Drive.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://support.google.com/photos/answer/6193313?hl=en&amp;amp;ref_topic=6156061&quot;&gt;Full instructions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;windows-version&quot;&gt;Windows version&lt;/h2&gt;
+&lt;p&gt;On Windows mobile devices the built in backup feature makes use of Microsoft’s OneDrive platform. &lt;/p&gt;
+
+&lt;p&gt;To automatically save photos and videos to OneDrive:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In the App list, tap Photos .&lt;/li&gt;
+  &lt;li&gt;Tap More , then tap Settings.&lt;/li&gt;
+  &lt;li&gt;Under Auto-upload, tap OneDrive.&lt;/li&gt;
+  &lt;li&gt;Under Photos or Videos, tap the upload type you want: Good quality for lower resolution or Best quality for full resolution.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;(Full Instructions)[http://www.windowsphone.com/en-gb/how-to/wp8/photos/automatically-save-the-photos-and-videos-i-take-to-onedrive]&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud&quot;&gt;Backing up photos to cloud&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on June 03, 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
   

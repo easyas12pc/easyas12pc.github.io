@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-<<<<<<< HEAD
     <loc>http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud/</loc>
     <lastmod>2015-06-03T00:00:00+01:00</lastmod>
   </url>
@@ -11,81 +10,50 @@
   </url>
   <url>
     <loc>http://easyas12pc.co.uk/articles/guide-to-backups/</loc>
-=======
-    <loc>http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud</loc>
-    <lastmod>2015-06-03T00:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://easyas12pc.co.uk/articles/guide-to-upgrades</loc>
-    <lastmod>2015-05-06T00:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://easyas12pc.co.uk/articles/guide-to-backups</loc>
->>>>>>> origin/master
     <lastmod>2015-04-13T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com</loc>
+    <loc>http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com/</loc>
     <lastmod>2013-01-25T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://easyas12pc.co.uk/blog/rambling-about-ces2013</loc>
+    <loc>http://easyas12pc.co.uk/blog/rambling-about-ces2013/</loc>
     <lastmod>2013-01-14T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc</loc>
+    <loc>http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc/</loc>
     <lastmod>2012-08-14T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://easyas12pc.co.uk/articles/ram</loc>
+    <loc>http://easyas12pc.co.uk/articles/ram/</loc>
     <lastmod>2012-06-13T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://easyas12pc.co.uk/articles/cool-in-the-heat</loc>
+    <loc>http://easyas12pc.co.uk/articles/cool-in-the-heat/</loc>
     <lastmod>2012-05-26T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://easyas12pc.co.uk/articles/broadband-speeds</loc>
+    <loc>http://easyas12pc.co.uk/articles/broadband-speeds/</loc>
     <lastmod>2012-05-21T00:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://easyas12pc.co.uk/</loc>
-<<<<<<< HEAD
-    <lastmod>2015-07-02T18:41:49+01:00</lastmod>
+    <lastmod>2015-07-02T18:54:51+01:00</lastmod>
   </url>
   <url>
     <loc>http://easyas12pc.co.uk/about/</loc>
-    <lastmod>2015-07-02T18:41:49+01:00</lastmod>
+    <lastmod>2015-07-02T18:54:51+01:00</lastmod>
   </url>
   <url>
     <loc>http://easyas12pc.co.uk/tags/</loc>
-    <lastmod>2015-07-02T18:41:49+01:00</lastmod>
+    <lastmod>2015-07-02T18:54:51+01:00</lastmod>
   </url>
   <url>
     <loc>http://easyas12pc.co.uk/articles/</loc>
-    <lastmod>2015-07-02T18:41:49+01:00</lastmod>
+    <lastmod>2015-07-02T18:54:51+01:00</lastmod>
   </url>
   <url>
     <loc>http://easyas12pc.co.uk/blog/</loc>
-    <lastmod>2015-07-02T18:41:49+01:00</lastmod>
-=======
-    <lastmod>2015-06-03T22:59:20+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://easyas12pc.co.uk/about/</loc>
-    <lastmod>2015-06-03T22:59:20+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://easyas12pc.co.uk/tags/</loc>
-    <lastmod>2015-06-03T22:59:20+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://easyas12pc.co.uk/articles/</loc>
-    <lastmod>2015-06-03T22:59:20+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://easyas12pc.co.uk/blog/</loc>
-    <lastmod>2015-06-03T22:59:20+01:00</lastmod>
->>>>>>> origin/master
+    <lastmod>2015-07-02T18:54:51+01:00</lastmod>
   </url>
 </urlset>

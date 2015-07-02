@@ -4,11 +4,7 @@
 	<title type="text" xml:lang="en"></title>
 	<link type="application/atom+xml" href="http://easyas12pc.co.uk/feed/" rel="self"/>
  	<link type="text" href="http://easyas12pc.co.uk" rel="alternate"/>
-<<<<<<< HEAD
-	<updated>2015-07-02T18:41:49+01:00</updated>
-=======
-	<updated>2015-06-03T22:59:20+01:00</updated>
->>>>>>> origin/master
+	<updated>2015-07-02T18:54:51+01:00</updated>
 	<id>http://easyas12pc.co.uk</id>
 	<author>
 		<name>Easy as 1 2 PC</name>
@@ -18,11 +14,7 @@
 	
 	<entry>
 		<title>Backing up photos to cloud</title>
-<<<<<<< HEAD
 		<link href="http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud/"/>
-=======
-		<link href="http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud"/>
->>>>>>> origin/master
 		<updated>2015-06-03T00:00:00+01:00</updated>
 		<id>http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud</id>
 		<content type="html">&lt;p&gt;Many people take photographs on their mobile devices. Probably more people use a mobile phone or heaven forbid a tablet to take photographs rather than an instant camera. Who can blame them. No need to wait until you have completed the roll, taken or mailed it to your local development shop. Then you had to wait while they processed it and then sent you back or you collected your prints. All this you had to pay for even if the photos turned out to be of your finger or missing heads.  &lt;/p&gt;
@@ -95,11 +87,7 @@
 	
 	<entry>
 		<title>Easy as 1 2 PC Guide to Upgrading Your PC</title>
-<<<<<<< HEAD
 		<link href="http://easyas12pc.co.uk/articles/guide-to-upgrades/"/>
-=======
-		<link href="http://easyas12pc.co.uk/articles/guide-to-upgrades"/>
->>>>>>> origin/master
 		<updated>2015-05-06T00:00:00+01:00</updated>
 		<id>http://easyas12pc.co.uk/articles/guide-to-upgrades</id>
 		<content type="html">&lt;h1&gt;Easy as 1 2 PC Guide to Upgrading Your PC.&lt;/h1&gt;
@@ -186,7 +174,7 @@ Before carrying out any work inside your computer or laptop please ensure that y
 	
 	<entry>
 		<title>Easy as 1 2 PC Guide to Backups</title>
-		<link href="http://easyas12pc.co.uk/articles/guide-to-backups"/>
+		<link href="http://easyas12pc.co.uk/articles/guide-to-backups/"/>
 		<updated>2015-04-13T00:00:00+01:00</updated>
 		<id>http://easyas12pc.co.uk/articles/guide-to-backups</id>
 		<content type="html">&lt;h2&gt;Intro&lt;/h2&gt;
@@ -292,7 +280,7 @@ Open Backup and Restore Center by:&lt;/p&gt;
 	
 	<entry>
 		<title>Easy as 1 2 PC guide Creating Your Own Site on WordPress.com</title>
-		<link href="http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com"/>
+		<link href="http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com/"/>
 		<updated>2013-01-25T00:00:00+00:00</updated>
 		<id>http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com</id>
 		<content type="html">&lt;p&gt;Many people would like to create their own website. Some struggle to get started for various reasons. In this series of guides I aim to make this easier. There are many choices on the internet of where to create a free website. From WordPress and Weebly to Google sites, Wix and many more. Over the coming weeks I plan on creating these guides to help you get your site up and running. Nothing fancy, just enough to say that is a website and I did that.&lt;/p&gt;
@@ -574,7 +562,7 @@ Please spread the word, share on Facebook, Twitter etc.
 	
 	<entry>
 		<title>Rambling about . . . CES 2013</title>
-		<link href="http://easyas12pc.co.uk/blog/rambling-about-ces2013"/>
+		<link href="http://easyas12pc.co.uk/blog/rambling-about-ces2013/"/>
 		<updated>2013-01-14T00:00:00+00:00</updated>
 		<id>http://easyas12pc.co.uk/blog/rambling-about-ces2013</id>
 		<content type="html">&lt;p&gt;Hi and welcome to another rambling post.
@@ -637,7 +625,7 @@ Would you be interested in a flexible phone? How about one with a curved display
 	
 	<entry>
 		<title>Easy as 1 2 PC guide to buying a New PC</title>
-		<link href="http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc"/>
+		<link href="http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc/"/>
 		<updated>2012-08-14T00:00:00+01:00</updated>
 		<id>http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc</id>
 		<content type="html">&lt;p&gt;Buying a computer can be a daunting process. There is so many questions to be answered. Windows or Macintosh? Should I get AMD or Intel? Should I get the 2GB or 4GB model. Should I get the one with the flashy case or the one that’s plainer? So many questions which the sales people are quick to exploit and without ever answering many of the important ones. For many people they have already answered the first question do I get a Window’s PC or a Macintosh PC. This question is usually answered by preference, the software you want to run or your budget.&lt;/p&gt;
@@ -716,7 +704,7 @@ Find Easy as 1 2 PC on &lt;a href=&quot;https://facebook.com/easyas12pc&quot;&gt
 	
 	<entry>
 		<title>RAM - The main cause of system slowdowns.</title>
-		<link href="http://easyas12pc.co.uk/articles/ram"/>
+		<link href="http://easyas12pc.co.uk/articles/ram/"/>
 		<updated>2012-06-13T00:00:00+01:00</updated>
 		<id>http://easyas12pc.co.uk/articles/ram</id>
 		<content type="html">&lt;p&gt;One of the main services I used to provide was a computer maintenance session which is used to resolve many of the issues which cause system slowdowns. However on many an occasion, despite my best efforts, there is only a minor improvement in the systems responsiveness. This is caused by the systems not having a sufficient amount of RAM. Many systems which were bought several years ago were sold with an amount of RAM that although adequate for when the system was purchased, is now not enough. Every piece of software running on the computer uses a certain amount of system resources. The Operating system itself requires a minimum amount of RAM to perform its functions. The problem often arises though that system updates and other programs place an additional burden on the system resources and over time these requirements grow and unless the system is upgraded then the system can begin to feel unresponsive.&lt;/p&gt;
@@ -778,7 +766,7 @@ Windows 8 - 4GB or 8GB preferably &lt;/p&gt;
 	
 	<entry>
 		<title>Keeping Your Computer Cool in the Heat.</title>
-		<link href="http://easyas12pc.co.uk/articles/cool-in-the-heat"/>
+		<link href="http://easyas12pc.co.uk/articles/cool-in-the-heat/"/>
 		<updated>2012-05-26T00:00:00+01:00</updated>
 		<id>http://easyas12pc.co.uk/articles/cool-in-the-heat</id>
 		<content type="html">&lt;h4&gt;How do you keep a computer cool?&lt;/h4&gt;
@@ -841,7 +829,7 @@ I recommend getting your case internally maintained or cleaned at least once or 
 	
 	<entry>
 		<title>Broadband Speeds and Why You Do Not Get What You Pay For</title>
-		<link href="http://easyas12pc.co.uk/articles/broadband-speeds"/>
+		<link href="http://easyas12pc.co.uk/articles/broadband-speeds/"/>
 		<updated>2012-05-21T00:00:00+01:00</updated>
 		<id>http://easyas12pc.co.uk/articles/broadband-speeds</id>
 		<content type="html">&lt;p&gt;This article was inspired by Donna of &lt;a href=&quot;http://www.facebook.com/donnascraftsupplies&quot;&gt;Donna’s Crafts and Supplies&lt;/a&gt;&lt;/p&gt;

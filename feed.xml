@@ -4,7 +4,11 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://easyas12pc.co.uk/feed.xml" />
 <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk" />
+<<<<<<< HEAD
 <updated>2015-07-02T18:41:49+01:00</updated>
+=======
+<updated>2015-06-03T22:59:20+01:00</updated>
+>>>>>>> origin/master
 <id>http://easyas12pc.co.uk/</id>
 <author>
   <name>Easy as 1 2 PC</name>
@@ -17,7 +21,11 @@
 
 <entry>
   <title type="html"><![CDATA[Backing up photos to cloud]]></title>
+<<<<<<< HEAD
   <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud/" />
+=======
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud" />
+>>>>>>> origin/master
   <id>http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud</id>
   <published>2015-06-03T00:00:00+01:00</published>
   <updated>2015-06-03T00:00:00+01:00</updated>
@@ -93,7 +101,11 @@
 &lt;/blockquote&gt;
 
 
+<<<<<<< HEAD
     &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud/&quot;&gt;Backing up photos to cloud&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on June 03, 2015.&lt;/p&gt;
+=======
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/backing-up-photos-to-cloud&quot;&gt;Backing up photos to cloud&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on June 03, 2015.&lt;/p&gt;
+>>>>>>> origin/master
   </content>
 </entry>
 
@@ -102,7 +114,11 @@
 
 <entry>
   <title type="html"><![CDATA[Easy as 1 2 PC Guide to Upgrading Your PC]]></title>
+<<<<<<< HEAD
   <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/guide-to-upgrades/" />
+=======
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/guide-to-upgrades" />
+>>>>>>> origin/master
   <id>http://easyas12pc.co.uk/articles/guide-to-upgrades</id>
   <published>2015-05-06T00:00:00+01:00</published>
   <updated>2015-05-06T00:00:00+01:00</updated>
@@ -192,7 +208,11 @@ Before carrying out any work inside your computer or laptop please ensure that y
 &lt;p&gt;If you have any questions or comments please feel free to leave them below or over on the Facebook page. Suggestions for further articles also greatly appreciated.&lt;/p&gt;
 
 
+<<<<<<< HEAD
     &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/guide-to-upgrades/&quot;&gt;Easy as 1 2 PC Guide to Upgrading Your PC&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on May 06, 2015.&lt;/p&gt;
+=======
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/guide-to-upgrades&quot;&gt;Easy as 1 2 PC Guide to Upgrading Your PC&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on May 06, 2015.&lt;/p&gt;
+>>>>>>> origin/master
   </content>
 </entry>
 
@@ -201,7 +221,7 @@ Before carrying out any work inside your computer or laptop please ensure that y
 
 <entry>
   <title type="html"><![CDATA[Easy as 1 2 PC Guide to Backups]]></title>
-  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/guide-to-backups/" />
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/guide-to-backups" />
   <id>http://easyas12pc.co.uk/articles/guide-to-backups</id>
   <published>2015-04-13T00:00:00+01:00</published>
   <updated>2015-04-13T00:00:00+01:00</updated>
@@ -310,7 +330,7 @@ Open Backup and Restore Center by:&lt;/p&gt;
 &lt;/table&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/guide-to-backups/&quot;&gt;Easy as 1 2 PC Guide to Backups&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on April 13, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/guide-to-backups&quot;&gt;Easy as 1 2 PC Guide to Backups&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on April 13, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -319,7 +339,7 @@ Open Backup and Restore Center by:&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Easy as 1 2 PC guide Creating Your Own Site on WordPress.com]]></title>
-  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com/" />
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com" />
   <id>http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com</id>
   <updated>2013-01-25T00:00:00-00:00</updated>
   <published>2013-01-25T00:00:00+00:00</published>
@@ -605,7 +625,7 @@ alt=&amp;quot;Easy as 1 2 PC on RSS&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&lt;/co
 Please spread the word, share on Facebook, Twitter etc.
 &lt;/p&gt;&lt;/stron&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com/&quot;&gt;Easy as 1 2 PC guide Creating Your Own Site on WordPress.com&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on January 25, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/creating-your-own-site-on-wordpress-dot-com&quot;&gt;Easy as 1 2 PC guide Creating Your Own Site on WordPress.com&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on January 25, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -614,7 +634,7 @@ Please spread the word, share on Facebook, Twitter etc.
 
 <entry>
   <title type="html"><![CDATA[Rambling about . . . CES 2013]]></title>
-  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/blog/rambling-about-ces2013/" />
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/blog/rambling-about-ces2013" />
   <id>http://easyas12pc.co.uk/blog/rambling-about-ces2013</id>
   <published>2013-01-14T00:00:00+00:00</published>
   <updated>2013-01-14T00:00:00+00:00</updated>
@@ -680,7 +700,7 @@ Would you be interested in a flexible phone? How about one with a curved display
 
 &lt;p&gt;Thanks for reading and I’ll catch you on either Facebook or Google+&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/blog/rambling-about-ces2013/&quot;&gt;Rambling about . . . CES 2013&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on January 14, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/blog/rambling-about-ces2013&quot;&gt;Rambling about . . . CES 2013&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on January 14, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -689,7 +709,7 @@ Would you be interested in a flexible phone? How about one with a curved display
 
 <entry>
   <title type="html"><![CDATA[Easy as 1 2 PC guide to buying a New PC]]></title>
-  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc/" />
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc" />
   <id>http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc</id>
   <updated>2012-08-14T00:00:00-00:00</updated>
   <published>2012-08-14T00:00:00+01:00</published>
@@ -772,7 +792,7 @@ When building a machine which will be dedicated to games it is advisable to purc
 Find me on &lt;a href=&quot;http://plus.google.com/u/0/101182395189202128527?rel=author&quot;&gt;Google&lt;/a&gt;&lt;br /&gt;
 Find Easy as 1 2 PC on &lt;a href=&quot;https://facebook.com/easyas12pc&quot;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc/&quot;&gt;Easy as 1 2 PC guide to buying a New PC&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on August 14, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/guide-to-buying-a-new-pc&quot;&gt;Easy as 1 2 PC guide to buying a New PC&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on August 14, 2012.&lt;/p&gt;
   </content>
 </entry>
 
@@ -781,7 +801,7 @@ Find Easy as 1 2 PC on &lt;a href=&quot;https://facebook.com/easyas12pc&quot;&gt
 
 <entry>
   <title type="html"><![CDATA[RAM - The main cause of system slowdowns.]]></title>
-  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/ram/" />
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/ram" />
   <id>http://easyas12pc.co.uk/articles/ram</id>
   <published>2012-06-13T00:00:00+01:00</published>
   <updated>2012-06-13T00:00:00+01:00</updated>
@@ -846,7 +866,7 @@ Windows 8 - 4GB or 8GB preferably &lt;/p&gt;
 
 &lt;p&gt;If you can afford to upgrade and have a 64-bit Operating System then More is always better however once you get to about 8GB, which is what I have. Unless you have a specific reason for installing more RAM then I would recommend remaining at 8GB. Between 4GB and 8GB the difference is not going to be noticed much by you unless you regularly run heavy-duty programs such as Adobe Photoshop or a particularly demanding game. At which point your system will notice even if you don’t.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/ram/&quot;&gt;RAM - The main cause of system slowdowns.&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on June 13, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/ram&quot;&gt;RAM - The main cause of system slowdowns.&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on June 13, 2012.&lt;/p&gt;
   </content>
 </entry>
 
@@ -855,7 +875,7 @@ Windows 8 - 4GB or 8GB preferably &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Keeping Your Computer Cool in the Heat.]]></title>
-  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/cool-in-the-heat/" />
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/cool-in-the-heat" />
   <id>http://easyas12pc.co.uk/articles/cool-in-the-heat</id>
   <published>2012-05-26T00:00:00+01:00</published>
   <updated>2012-05-26T00:00:00+01:00</updated>
@@ -921,7 +941,7 @@ I recommend getting your case internally maintained or cleaned at least once or 
 
 &lt;p&gt;Other than what I have mentioned above I can’t think of any more If you have any ideas feel free to leave them in the comments section below.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/cool-in-the-heat/&quot;&gt;Keeping Your Computer Cool in the Heat.&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on May 26, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/cool-in-the-heat&quot;&gt;Keeping Your Computer Cool in the Heat.&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on May 26, 2012.&lt;/p&gt;
   </content>
 </entry>
 
@@ -930,7 +950,7 @@ I recommend getting your case internally maintained or cleaned at least once or 
 
 <entry>
   <title type="html"><![CDATA[Broadband Speeds and Why You Do Not Get What You Pay For]]></title>
-  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/broadband-speeds/" />
+  <link rel="alternate" type="text/html" href="http://easyas12pc.co.uk/articles/broadband-speeds" />
   <id>http://easyas12pc.co.uk/articles/broadband-speeds</id>
   <published>2012-05-21T00:00:00+01:00</published>
   <updated>2012-05-21T00:00:00+01:00</updated>
@@ -1002,7 +1022,7 @@ One thing to bear in mind is that although the modem or router may connect at a 
 
 &lt;p&gt;Leave a Reply&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/broadband-speeds/&quot;&gt;Broadband Speeds and Why You Do Not Get What You Pay For&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on May 21, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://easyas12pc.co.uk/articles/broadband-speeds&quot;&gt;Broadband Speeds and Why You Do Not Get What You Pay For&lt;/a&gt; was originally published by Easy as 1 2 PC at &lt;a href=&quot;http://easyas12pc.co.uk&quot;&gt;Easy as 1 2 PC&lt;/a&gt; on May 21, 2012.&lt;/p&gt;
   </content>
 </entry>
 
